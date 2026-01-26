@@ -12,7 +12,17 @@
 
 - **Interviewee:** Jorge Andrés Marquez Hurtado  
 - **Profile:** Student  
-- **Problem Addressed:** University Gastronomic Offer  
+- **Problem Addressed:** University Gastronomic Offer
+- **Audio Summary:** https://drive.google.com/file/d/1dLgdnUcykdLrxjDglFnav2LWIqFeHXiQ/view?usp=sharing
+- **Transcription:**
+- ## 🎧 Interview Transcript (Summary)
+
+The interviewee describes how choosing where to eat around the university is usually based on habit rather than exploration. They mention that although there are many restaurants, cafés, and food stands nearby, there is no centralized place where students can see the full gastronomic offer.
+
+They explain that discovering new places mainly depends on recommendations from friends or social media, but this information is often incomplete or unreliable. As a result, they tend to return to familiar places, even when they are interested in trying something new.
+
+The interviewee also highlights that smaller or newer establishments struggle to gain visibility unless they are located in very crowded areas. Overall, they express a desire for a platform that allows students to explore food options easily, compare them, and make informed decisions.
+
 
 ---
 
