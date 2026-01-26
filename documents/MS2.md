@@ -10,7 +10,7 @@
 
 ## 👤 Interview 1 [Jorge Bustamante]
 
-- **Interviewee:** Jorge Andrés Marquez Hurtado  
+- **Interviewee:** Juan Payares
 - **Profile:** Student  
 - **Problem Addressed:** University Gastronomic Offer
 - **Audio Summary:** https://drive.google.com/file/d/1dLgdnUcykdLrxjDglFnav2LWIqFeHXiQ/view?usp=sharing
