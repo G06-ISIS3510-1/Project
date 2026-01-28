@@ -13,16 +13,10 @@
 - **Interviewee:** Juan Payares
 - **Profile:** Student  
 - **Problem Addressed:** University Gastronomic Offer
-- **Audio Summary:** https://drive.google.com/file/d/1dLgdnUcykdLrxjDglFnav2LWIqFeHXiQ/view?usp=sharing
-- **Transcription:**
-- ## 🎧 Interview Transcript (Summary)
-
-The interviewee describes how choosing where to eat around the university is usually based on habit rather than exploration. They mention that although there are many restaurants, cafés, and food stands nearby, there is no centralized place where students can see the full gastronomic offer.
-
-They explain that discovering new places mainly depends on recommendations from friends or social media, but this information is often incomplete or unreliable. As a result, they tend to return to familiar places, even when they are interested in trying something new.
-
-The interviewee also highlights that smaller or newer establishments struggle to gain visibility unless they are located in very crowded areas. Overall, they express a desire for a platform that allows students to explore food options easily, compare them, and make informed decisions.
-
+- **Interview (complete):** [Audio](https://uniandes-my.sharepoint.com/:u:/g/personal/j_bustamantep_uniandes_edu_co/IQDmGHNujSlSTKx2IkqgDlaNAZv89UyYILfmhRkoZd7uSjI?e=dJiswc&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- **Transcription (complete):** [Link](https://uniandes-my.sharepoint.com/:w:/g/personal/j_bustamantep_uniandes_edu_co/IQCEjTqMnys4Q7zDRmJ_M627AVaYQsI2szUsR1T8NZFPOWU?e=i2wnbK)
+- **Interview (Summary):** [Audio](https://uniandes-my.sharepoint.com/:v:/g/personal/j_bustamantep_uniandes_edu_co/IQAFK-HTbH-IQKn6UWme7HVfATiraDdnV4_hkA8pZfwlEP4?e=uEIZNn)
+- **Transcription (Summary):** [Link](https://uniandes-my.sharepoint.com/:w:/g/personal/j_bustamantep_uniandes_edu_co/IQD6uVHEVbzKRLQXZIgEpYzUAYmFGI5GJIvKATWEEEqRAxM?e=yQiBt7)
 
 ---
 
