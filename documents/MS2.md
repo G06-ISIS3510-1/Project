@@ -86,7 +86,7 @@
 - **Interviewee:** Daniela Solarte
 - **Profile:** Student  
 - **Problem Addressed:** Recycling points in Bogotá
-- **Interview (complete):** [Audio]([https://uniandes-my.sharepoint.com/:u:/g/personal/j_bustamantep_uniandes_edu_co/IQDmGHNujSlSTKx2IkqgDlaNAZv89UyYILfmhRkoZd7uSjI?e=dJiswc&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://uniandes-my.sharepoint.com/:v:/g/personal/s_martinezj_uniandes_edu_co/IQBKa2PRQIitTrgpim_ONgpaASv7FD-xeU5RDHi4RPqAQ24?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=l7Ahbc))
+- **Interview (complete):** [Audio](https://uniandes-my.sharepoint.com/:v:/g/personal/s_martinezj_uniandes_edu_co/IQBKa2PRQIitTrgpim_ONgpaASv7FD-xeU5RDHi4RPqAQ24?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=l7Ahbc)
 - **Interview (Summary):**
 
 ---
