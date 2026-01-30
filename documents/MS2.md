@@ -118,46 +118,49 @@
 
 ### 🔹 Insight 1
 - **What?**  
-  Students repeatedly go to the same food places near the university.
+  People accumulate recyclable waste at home instead of disposing of it properly.
 - **How?**  
-  They act conservatively and avoid exploring new options.
+  They store items like batteries, cables, and electronics in drawers or boxes for long periods.
 - **Why?**  
-  Because they lack clear and centralized information about the gastronomic offer.
+  Because they do not know where to take these materials or do not trust available information.
 - **Who?**  
-  University students with limited time between classes.
+  Urban residents in Bogotá who want to recycle but lack clear guidance.
 
 ---
 
 ### 🔹 Insight 2
 - **What?**  
-  Students rely heavily on word-of-mouth recommendations.
+  Uncertainty leads people to choose environmentally harmful behaviors by default
 - **How?**  
-  They trust friends more than online information.
+  When unsure, they pour oil down the drain, throw items in random bins, or keep waste indefinitely at home.
 - **Why?**  
-  Because social media and maps often lack updated or relevant details.
+  Because the system provides ambiguous signals (icons, bins, rules) that force users to guess instead of guiding them clearly.
 - **Who?**  
-  Students who frequently eat around campus.
+  Residents navigating public and private waste systems with inconsistent information.
 
 ---
 
 ### 🔹 Insight 3
 - **What?**  
-  New or small food establishments struggle to be discovered.
+  People lose motivation when they cannot see the impact of their recycling efforts.
 - **How?**  
-  They remain invisible unless located in highly crowded areas.
+  They express care for the planet but feel discouraged when their actions seem insignificant or unsupported.
 - **Why?**  
-  Because promotion depends mostly on physical location or informal advertising.
+  Because there is no visible feedback loop, social reinforcement, or consequences for incorrect disposal.
 - **Who?**  
-  Local food businesses near the university.
+  Young adults and students who value sustainability but need reinforcement to maintain behavior
 
 ---
 
 ### 🔹 Insight 4
 - **What?**  
-  Students want variety but stick to familiar options.
+  Recycling feels like an exception rather than a seamless part of daily life.
 - **How?**  
-  They feel curious but insecure about trying new places.
+  People must actively search for information, remember rules, and make extra decisions for each type of waste.
 - **Why?**  
-  Because lack of visibility and reviews increases perceived risk.
+  Because the recycling system is designed around infrastructure, not around user behavior or decision-making patterns.
 - **Who?**  
-  Students interested in exploring different gastronomic options.
+Busy urban users who rely on routines and convenience to sustain habits.
+
+---
+
