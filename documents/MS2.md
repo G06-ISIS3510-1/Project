@@ -81,7 +81,7 @@
   Students interested in exploring different gastronomic options.
 
 ---
-## 👤 Interview 1 [Samara Martínez J]
+## 👤 Interview 2 [Samara Martínez J]
 
 - **Interviewee:** Daniela Solarte
 - **Profile:** Student  
