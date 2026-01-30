@@ -160,7 +160,6 @@
 - **Why?**  
   Because the recycling system is designed around infrastructure, not around user behavior or decision-making patterns.
 - **Who?**  
-<<<<<<< HEAD
   Students interested in exploring different gastronomic options.
 
   ## 👤 Interview 3 [Martín Del Gordo]
@@ -239,9 +238,3 @@
   Students who regularly eat at restaurants around the university.
 
 ---
-=======
-Busy urban users who rely on routines and convenience to sustain habits.
-
----
-
->>>>>>> e18e7279ece6fbe7c5c6ec8db47dca6bee225f4c
