@@ -171,13 +171,16 @@
 
 ## 📝 Interview Questions & Responses
 
-| # | Question | Purpose | Response |
-|---|---------|---------|----------|
-| 1 | When was the last time you went looking for a place to eat around the university? | Understand how frequent the problem is | Almost every day, especially for lunch between classes |
-| 2 | How do you usually choose where to eat? | Identify decision-making criteria | Mostly by recommendations from friends or by going to places I already know |
-| 3 | Do you feel there are enough ways to discover new places to eat near the university? | Understand discoverability issues | Not really, there are many places but no single platform to see all the options |
-| 4 | How do you feel when you want to try something new but don’t know where to go? | Identify emotions related to the problem | I feel unsure and end up going to the same places as always |
-| 5 | Have you tried using social media or apps to find new places? | Understand current alternatives | Yes, Instagram or Google Maps, but information is usually incomplete or unreliable |
+| # | Question| Purpose|Response|
+| - |--------------------------------------------------------------------------------------------------- |---------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1 | How often do you usually eat at restaurants around the university?| Understand how frequent the interaction with university restaurants is | The interviewee eats at university restaurants very frequently, around three to four days per week, depending on class schedule and free time.|
+| 2 | When you decide to eat at the university, what factors most influence where you choose to eat?| Identify decision-making criteria| The main factors are price and personal taste. Recently, eating healthy has become important, but healthy options are usually more expensive or less appealing.|
+| 3 | How did you discover the restaurants you usually go to around the university?| Understand current discovery methods| Restaurants are discovered mainly through recommendations from friends, visual exposure while walking around campus, and social media review pages.|
+| 4 | How much do you trust restaurant reviews on social media?| Understand trust in existing alternatives| The interviewee generally trusts these reviews, especially because they are created by students, and finds them useful even if expectations are sometimes exaggerated. |
+| 5 | Why do you choose to eat at the university instead of cooking at home?| Understand motivations for eating on campus                            | Eating at the university is convenient, saves time, offers a wide variety of options, and is also a social activity with friends.                                      |
+| 6 | How would you describe the gastronomic offer around the university to someone who does not know it? | Understand perception of overall food offer| The gastronomic offer is perceived as very varied, with options for all tastes, budgets, and levels of healthiness.|
+| 7 | What factors make you avoid certain restaurants around the university?| Identify pain points and barriers| Long waiting times, overcrowding, hygiene concerns, and lack of time between classes often cause the interviewee to avoid certain restaurants.|
+| 8 | How do you usually make the final decision on where to eat on a typical day?| Understand the step-by-step decision process| The interviewee usually discusses options with friends, narrows the choice to three or four places, and decides based on price, time available, and cravings.|
 
 ---
 
@@ -185,48 +188,48 @@
 
 ### 🔹 Insight 1
 - **What?**  
-  Students repeatedly go to the same food places near the university.
+  Students eat at restaurants around the university very frequently.
 - **How?**  
-  They act conservatively and avoid exploring new options.
+  They routinely include eating out in their daily schedule, often three to four times per week, depending on their classes and available time.
 - **Why?**  
-  Because they lack clear and centralized information about the gastronomic offer.
+  Because eating at the university is convenient, saves time, and allows them to focus on academic activities.
 - **Who?**  
-  University students with limited time between classes.
+  University students with tight schedules and limited time between classes.
 
 ---
 
 ### 🔹 Insight 2
 - **What?**  
-  Students rely heavily on word-of-mouth recommendations.
+  Price and food preference strongly influence students’ restaurant choices.
 - **How?**  
-  They trust friends more than online information.
+  Students evaluate options by setting a mental budget limit and choosing places where they already know they like the food.
 - **Why?**  
-  Because social media and maps often lack updated or relevant details.
+  Because students have limited budgets and want to avoid spending money on meals they might not enjoy.
 - **Who?**  
-  Students who frequently eat around campus.
+  Budget-conscious students who eat frequently near campus.
 
 ---
 
 ### 🔹 Insight 3
 - **What?**  
-  New or small food establishments struggle to be discovered.
+  Finding healthy food options is challenging for students.
 - **How?**  
-  They remain invisible unless located in highly crowded areas.
+  Students perceive healthy options as either less appealing or more expensive than unhealthy alternatives.
 - **Why?**  
-  Because promotion depends mostly on physical location or informal advertising.
+  Because most nearby food options prioritize fast and fried meals that are cheaper and more accessible.
 - **Who?**  
-  Local food businesses near the university.
+  Students who want to improve their eating habits while studying at the university.
 
 ---
 
 ### 🔹 Insight 4
 - **What?**  
-  Students want variety but stick to familiar options.
+  Students rely heavily on recommendations to discover and choose restaurants.
 - **How?**  
-  They feel curious but insecure about trying new places.
+  They depend on friends, visual exposure around campus, and student-run social media review pages.
 - **Why?**  
-  Because lack of visibility and reviews increases perceived risk.
+  Because peer recommendations feel more trustworthy and relevant than generic platforms.
 - **Who?**  
-  Students interested in exploring different gastronomic options.
+  Students who regularly eat at restaurants around the university.
 
 ---
