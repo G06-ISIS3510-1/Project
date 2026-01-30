@@ -238,3 +238,77 @@
   Students who regularly eat at restaurants around the university.
 
 ---
+
+## 👤 Interview 4 [Raul Insuasty]
+
+- **Interviewee:** Daniel Pedraza
+- **Profile:** Student  
+- **Problem Addressed:** University Car Pooling System (Wheels)
+- **Interview (complete):** [Audio](https://uniandes-my.sharepoint.com/:u:/g/personal/j_bustamantep_uniandes_edu_co/IQDmGHNujSlSTKx2IkqgDlaNAZv89UyYILfmhRkoZd7uSjI?e=dJiswc&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- **Transcription (complete):** [Link](https://uniandes-my.sharepoint.com/:w:/g/personal/j_bustamantep_uniandes_edu_co/IQCEjTqMnys4Q7zDRmJ_M627AVaYQsI2szUsR1T8NZFPOWU?e=i2wnbK)
+- **Interview (Summary):** [Audio](https://uniandes-my.sharepoint.com/:v:/g/personal/j_bustamantep_uniandes_edu_co/IQAFK-HTbH-IQKn6UWme7HVfATiraDdnV4_hkA8pZfwlEP4?e=uEIZNn)
+- **Transcription (Summary):** [Link](https://uniandes-my.sharepoint.com/:w:/g/personal/j_bustamantep_uniandes_edu_co/IQD6uVHEVbzKRLQXZIgEpYzUAYmFGI5GJIvKATWEEEqRAxM?e=yQiBt7)
+
+---
+
+## 📝 Interview Questions & Responses
+
+| # | Question | Purpose | Response |
+|---|---------|---------|----------|
+| 1 | When was the last time you went looking for a place to eat around the university? | Understand how frequent the problem is | Almost every day, especially for lunch between classes |
+| 2 | How do you usually choose where to eat? | Identify decision-making criteria | Mostly by recommendations from friends or by going to places I already know |
+| 3 | Do you feel there are enough ways to discover new places to eat near the university? | Understand discoverability issues | Not really, there are many places but no single platform to see all the options |
+| 4 | How do you feel when you want to try something new but don’t know where to go? | Identify emotions related to the problem | I feel unsure and end up going to the same places as always |
+| 5 | Have you tried using social media or apps to find new places? | Understand current alternatives | Yes, Instagram or Google Maps, but information is usually incomplete or unreliable |
+
+---
+
+## 💡 Insights – What? How? Why? Who?
+
+### 🔹 Insight 1
+- **What?**  
+  Whatsapp groups are unconfortable and full of spam.
+- **How?**  
+  There are a lot of messages and some people send adds.
+- **Why?**  
+  Because they they are not controlled of ruled.
+- **Who?**  
+  University students who want to take part of car pooling.
+
+---
+
+### 🔹 Insight 2
+- **What?**  
+  People cancel their rides at the last minute.
+- **How?**  
+  They wait until the end of the day, or they do not wake up on time.
+- **Why?**  
+  Because students do not have any penalty for cancelling at any time.
+- **Who?**  
+  Students who use the service of car pooling.
+
+---
+
+### 🔹 Insight 3
+- **What?**  
+  Some people are late, or do not behave.
+- **How?**  
+  They are not responsible with time, or they have problems with their riders.
+- **Why?**  
+  Because people are not on time, and affect the other people using the service.
+- **Who?**  
+  People who use car pooling service.
+
+---
+
+### 🔹 Insight 4
+- **What?**  
+  Payment for the service is tedius and some people do not pay on time affecting the drivers.
+- **How?**  
+  They forgot to pay or do not pay intentionally.
+- **Why?**  
+  Because payment platforms are slow, and do not allow fast payments.
+- **Who?**  
+  Students using car pooling services.
+
+---
