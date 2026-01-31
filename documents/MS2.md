@@ -403,13 +403,17 @@
 
 ---
 # 💡Brainstorming Process
-During our brainstorming process, we decided to use post-it notes as a way to quickly externalize our ideas. Based on the insights gathered from our interviews and analysis, we began writing down potential solutions and concepts and placing them on the desk, as shown in the photo. This allowed us to visually organize our thoughts, build on each other’s ideas, and encourage an open and collaborative discussion.
 
-<img src="https://github.com/user-attachments/assets/374a1f62-a6ef-4b1f-94f3-992f8e293856" alt="drawing" width="600"/> </br>
+The brainstorming process was carried out in Spanish with authorization of the Instructor to facilitate the ideation process and ease the communication. Hence, the pictures will be presented in Spanish.
+
+## Wheels Uniandes
+Following the tips and instructions given in C2, during our brainstorming process we decided to use post-it notes as a way to quickly externalize our ideas. Based on the insights gathered from our interviews and analysis, we began writing down potential solutions and concepts and placing them on the desk, as shown in the photo. This allowed us to visually organize our thoughts, build on each other’s ideas, and encourage an open and collaborative discussion.
+
+<img src="https://github.com/user-attachments/assets/374a1f62-a6ef-4b1f-94f3-992f8e293856" alt="drawing" width="800"/> </br>
 
 After generating a wide range of ideas, we organized them into four categories to better evaluate their potential: Rational Choices, The Most Likely to Delight, The Darling, and The Long Shot. This classification helped us compare ideas based on feasibility, user impact, and level of innovation, and allowed us to prioritize which concepts were worth exploring further.
 
-<img src="https://github.com/user-attachments/assets/84f7604f-abf7-4469-9147-7c6bcffe0a0e" alt="drawing" width="600"/>
+<img src="https://github.com/user-attachments/assets/84f7604f-abf7-4469-9147-7c6bcffe0a0e" alt="drawing" width="800"/>
 
 Finally after evaluating both projects we decided to prototype the Car Pooling Proyect (Wheels Uniandes) because we found that the problems were beign very painfull for both drivers and users. This way the key ideas we found were the following:
 - Driver and user reviews are key in order to make a better service
@@ -417,4 +421,23 @@ Finally after evaluating both projects we decided to prototype the Car Pooling P
 - Having a quick payment button can make things way faster and easier for users
 - Enforcing a tough cancellation policy can help drivers avoid last minute cancellations
 - Showing drivers location and route will make the service more efficient.
+
+## University Gastronomic Offer (Restaurants)
+
+Following the same approach we used for the *Wheels Uniandes* problematic, we started the process by **diverging ideas**, focusing more on **quantity than quality**. During this stage, we tried to avoid opinions that included the word *“but”* and instead focused on **building on top of existing ideas**. We also explored ideas related to **wearables, physical elements, and IoT technologies** to expand the range of possible solutions. This brainstorming process is shown in the image below:
+
+<img src="https://github.com/user-attachments/assets/11789185-5da2-45c7-a5b9-ae120baaaecc" alt="drawing" width="800"/>
+
+After that, we moved into a **convergence phase**, where we grouped the ideas into the four categories defined earlier. Most ideas clearly fit into one category, but one stood out: using **GPS sensors on mobile phones to detect congestion at food points on campus**. We considered this idea to be both **“The Darling”** and **“The Long Shot”**, since it was an idea we really liked as a team but also one that would be challenging to implement and make work properly. This convergence process is illustrated in the next image:
+
+<img src="https://github.com/user-attachments/assets/f510fb08-d4a1-4244-aaf0-cad5b90c6a95" alt="drawing" width="800"/>
+
+The main ideas we identified were:
+
+* Restaurant reviews
+* Filtering restaurants by price and category
+* Showing menus and prices clearly
+* A campus map with the location of restaurants
+
+However, as mentioned before, the final solution for this project will not focus on the food-point problem. Instead, the methodology and insights from this exercise will be applied to the **carpooling problem at the university.
 
