@@ -311,6 +311,88 @@
   Students using car pooling services.
 
 ---
+## 👤 Interview 5 [Mauricio Urrego]
+
+- **Interviewee:** Yésica Urrego
+- **Profile:** Accountant  
+- **Problem Addressed:** Clothes in Bogotá
+- **Interview (complete):** [Link](https://uniandes-my.sharepoint.com/:u:/g/personal/o_urregov_uniandes_edu_co/IQCNZzPJh65yQbHoz2KoTsYiAc5e_0oabyLAsmtTPnZI3Ms?e=tngQxe) 
+- **Transcription (complete):** [Link](https://uniandes-my.sharepoint.com/:w:/g/personal/o_urregov_uniandes_edu_co/IQAjqonIP1XOR5_e1SO71A9BAb_YHECmA72s-Vs6Wv3unco?e=BF3MEJ)
+- **Interview (Summary):** [Link](https://uniandes-my.sharepoint.com/:u:/g/personal/o_urregov_uniandes_edu_co/IQCIE2OxhaSFSIIPE0IRd5ajAaAcpjRrJBwm7dEklsH1qsg?e=acyL51)
+- **Transcription (Summary):** [Link](https://uniandes-my.sharepoint.com/:w:/g/personal/o_urregov_uniandes_edu_co/IQAdJidoo78hTYB8p-wkM0ZwAUU5cF8boGBe-dnCJeo6WQE?e=6gjtSq)
+
+---
+
+## 📝 Interview Questions & Responses
+
+* **Hypthesis:** People want to dispose of clothes responsibly, but lack clear information and easy connections with charities, which leads to usable clothes ending up in landfills.
+
+| #  | Question                                                                         | Purpose                                     | Response                                                                                                                              |
+| -- | -------------------------------------------------------------------------------- | ------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| 1  | Could you briefly tell me about yourself?                                        | Get to know the interviewee and her context | The interviewee lives in Bogotá and works in accounting for a construction materials company.                                         |
+| 2  | What do you usually do with clothes you no longer wear?                          | Understand current clothing disposal habits | She accumulates clothes and later gives them to charities or leaves them separately for recyclers.                                    |
+| 3  | Can you tell me about the last time you got rid of clothes?                      | Obtain a concrete recent example            | In December, she gathered clothes from her and her husband; some were reused by her mother-in-law and others were left for recyclers. |
+| 4  | Do you ever reuse clothes instead of throwing them away?                         | Identify reuse behaviors                    | Yes, she often uses old clothes as cleaning rags or for household tasks.                                                              |
+| 5  | Have you considered donating clothes instead of throwing them away?              | Explore willingness to donate               | Yes, but she avoids donating clothes that are worn out or damaged, as she feels donations should be in good condition.                |
+| 6  | What difficulties have you faced when trying to donate clothes?                  | Identify barriers and pain points           | Donation centers are far away, transportation is difficult, and she feels clothes often end up as waste anyway.                       |
+| 7  | How confident do you feel that donated clothes are used properly?                | Understand trust and frustration            | She trusts the foundation, but has seen donated clothes quickly turn into trash, causing pollution in the area.                       |
+| 8  | Do you know of other places where clothes could be donated or reused?            | Explore awareness of alternatives           | She has seen secondhand clothing stores but has never used them because she feels her clothes may not be good enough.                 |
+| 9  | How do you usually find information about donation places?                       | Validate information-access hypothesis      | She learned about the foundation through her sister and a church, not through public or digital channels.                             |
+| 10 | What features would make you use such a platform as a donor?                     | Identify functional and emotional needs     | Transparency about who receives the clothes, environmental impact information, and awareness about fashion pollution.                 |
+| 11 | Is there anything else you’d like to add?                                        | Capture additional insights                 | She believes secondhand clothes can be transformed into fashion and stresses the need to raise awareness about overconsumption.       |
+
+---
+
+## 💡 Insights – What? How? Why? Who?
+
+### 🔹 Insight 1
+- **What?**  
+  Students repeatedly go to the same food places near the university.
+- **How?**  
+  They act conservatively and avoid exploring new options.
+- **Why?**  
+  Because they lack clear and centralized information about the gastronomic offer.
+- **Who?**  
+  University students with limited time between classes.
+
+---
+
+### 🔹 Insight 2
+- **What?**  
+  Students rely heavily on word-of-mouth recommendations.
+- **How?**  
+  They trust friends more than online information.
+- **Why?**  
+  Because social media and maps often lack updated or relevant details.
+- **Who?**  
+  Students who frequently eat around campus.
+
+---
+
+### 🔹 Insight 3
+- **What?**  
+  New or small food establishments struggle to be discovered.
+- **How?**  
+  They remain invisible unless located in highly crowded areas.
+- **Why?**  
+  Because promotion depends mostly on physical location or informal advertising.
+- **Who?**  
+  Local food businesses near the university.
+
+---
+
+### 🔹 Insight 4
+- **What?**  
+  Students want variety but stick to familiar options.
+- **How?**  
+  They feel curious but insecure about trying new places.
+- **Why?**  
+  Because lack of visibility and reviews increases perceived risk.
+- **Who?**  
+  Students interested in exploring different gastronomic options.
+  
+---
+
 # 📍 Journey Maps
 ## Restaurants
 ## Wheels
@@ -329,3 +411,4 @@ Finally after evaluating both projects we decided to prototype the Car Pooling P
 - Having a quick payment button can make things way faster and easier for users
 - Enforcing a tough cancellation policy can help drivers avoid last minute cancellations
 - Showing drivers location and route will make the service more efficient.
+
