@@ -245,9 +245,9 @@
 - **Profile:** Student  
 - **Problem Addressed:** University Car Pooling System (Wheels)
 - **Interview (complete):** [Audio](https://uniandes-my.sharepoint.com/:v:/g/personal/r_insuasty_uniandes_edu_co/IQDGCWeqTO7lRoymwJV5odY8AV1QtQ4SGYoy7DKfLNvGwEo?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=nyyIlR)
-- **Transcription (complete):** [Link](https://uniandes-my.sharepoint.com/:w:/g/personal/j_bustamantep_uniandes_edu_co/IQCEjTqMnys4Q7zDRmJ_M627AVaYQsI2szUsR1T8NZFPOWU?e=i2wnbK)
-- **Interview (Summary):** [Audio](https://uniandes-my.sharepoint.com/:v:/g/personal/j_bustamantep_uniandes_edu_co/IQAFK-HTbH-IQKn6UWme7HVfATiraDdnV4_hkA8pZfwlEP4?e=uEIZNn)
-- **Transcription (Summary):** [Link](https://uniandes-my.sharepoint.com/:w:/g/personal/j_bustamantep_uniandes_edu_co/IQD6uVHEVbzKRLQXZIgEpYzUAYmFGI5GJIvKATWEEEqRAxM?e=yQiBt7)
+- **Transcription (complete):** [Link] (https://uniandes-my.sharepoint.com/:b:/g/personal/r_insuasty_uniandes_edu_co/IQBQ0h-gXnBLSrT1ZsbWZ6XjAQdr2QDYxDBh3vB4LNqm3Q4?e=f8gQqx)
+- **Interview (Summary):** [Audio] (https://uniandes-my.sharepoint.com/:u:/g/personal/r_insuasty_uniandes_edu_co/IQBlsSqxf_beQZbMk4SLnoQ0AeL0FwmXq4IcjlgkpmsYh-o?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=iRN5e1) 
+- **Transcription (Summary):** [Link] (https://uniandes-my.sharepoint.com/:w:/g/personal/r_insuasty_uniandes_edu_co/IQD0iulxo6EuQpWfC2j71pGoAekZovW2SzP15y7-lb390lw?e=Qkkd3n)
 
 ---
 
