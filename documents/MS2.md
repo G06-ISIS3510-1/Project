@@ -89,6 +89,8 @@
 - **Interview (complete):** [Audio](https://uniandes-my.sharepoint.com/:v:/g/personal/s_martinezj_uniandes_edu_co/IQBKa2PRQIitTrgpim_ONgpaASv7FD-xeU5RDHi4RPqAQ24?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=l7Ahbc)
 - **Interview (Summary):**
 
+Note: As instructed by the professor, the full transcript is not included because the interview was conducted in English.
+
 ---
 
 ## 📝 Interview Questions & Responses
