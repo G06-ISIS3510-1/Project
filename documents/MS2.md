@@ -442,3 +442,8 @@ The main ideas we identified were:
 
 However, as mentioned before, the final solution for this project will not focus on the food-point problem. Instead, the methodology and insights from this exercise will be applied to the **carpooling problem at the university.
 
+---
+# 🎥 Prototype (Video)
+
+In the following link, you can find the video presenting the prototype (blueprint) of our solution for the university carpooling problem (Wheels Uniandes). The proposal incorporates key ideas from the brainstorming process, such as user and driver reviews, a clean and organized platform without ads or multiple WhatsApp groups, quick in-app payments, clear cancellation policies, and real-time visibility of drivers’ routes. All team members participated in the video, each explaining at least one aspect of the solution using wireframes designed in Figma.
+
