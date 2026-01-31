@@ -327,13 +327,21 @@
 
 ## 📝 Interview Questions & Responses
 
-| # | Question | Purpose | Response |
-|---|---------|---------|----------|
-| 1 | When was the last time you went looking for a place to eat around the university? | Understand how frequent the problem is | Almost every day, especially for lunch between classes |
-| 2 | How do you usually choose where to eat? | Identify decision-making criteria | Mostly by recommendations from friends or by going to places I already know |
-| 3 | Do you feel there are enough ways to discover new places to eat near the university? | Understand discoverability issues | Not really, there are many places but no single platform to see all the options |
-| 4 | How do you feel when you want to try something new but don’t know where to go? | Identify emotions related to the problem | I feel unsure and end up going to the same places as always |
-| 5 | Have you tried using social media or apps to find new places? | Understand current alternatives | Yes, Instagram or Google Maps, but information is usually incomplete or unreliable |
+* **Hypthesis:** People want to dispose of clothes responsibly, but lack clear information and easy connections with charities, which leads to usable clothes ending up in landfills.
+
+| #  | Question                                                                         | Purpose                                     | Response                                                                                                                              |
+| -- | -------------------------------------------------------------------------------- | ------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| 1  | Could you briefly tell me about yourself?                                        | Get to know the interviewee and her context | The interviewee lives in Bogotá and works in accounting for a construction materials company.                                         |
+| 2  | What do you usually do with clothes you no longer wear?                          | Understand current clothing disposal habits | She accumulates clothes and later gives them to charities or leaves them separately for recyclers.                                    |
+| 3  | Can you tell me about the last time you got rid of clothes?                      | Obtain a concrete recent example            | In December, she gathered clothes from her and her husband; some were reused by her mother-in-law and others were left for recyclers. |
+| 4  | Do you ever reuse clothes instead of throwing them away?                         | Identify reuse behaviors                    | Yes, she often uses old clothes as cleaning rags or for household tasks.                                                              |
+| 5  | Have you considered donating clothes instead of throwing them away?              | Explore willingness to donate               | Yes, but she avoids donating clothes that are worn out or damaged, as she feels donations should be in good condition.                |
+| 6  | What difficulties have you faced when trying to donate clothes?                  | Identify barriers and pain points           | Donation centers are far away, transportation is difficult, and she feels clothes often end up as waste anyway.                       |
+| 7  | How confident do you feel that donated clothes are used properly?                | Understand trust and frustration            | She trusts the foundation, but has seen donated clothes quickly turn into trash, causing pollution in the area.                       |
+| 8  | Do you know of other places where clothes could be donated or reused?            | Explore awareness of alternatives           | She has seen secondhand clothing stores but has never used them because she feels her clothes may not be good enough.                 |
+| 9  | How do you usually find information about donation places?                       | Validate information-access hypothesis      | She learned about the foundation through her sister and a church, not through public or digital channels.                             |
+| 10 | What features would make you use such a platform as a donor?                     | Identify functional and emotional needs     | Transparency about who receives the clothes, environmental impact information, and awareness about fashion pollution.                 |
+| 11 | Is there anything else you’d like to add?                                        | Capture additional insights                 | She believes secondhand clothes can be transformed into fashion and stresses the need to raise awareness about overconsumption.       |
 
 ---
 
