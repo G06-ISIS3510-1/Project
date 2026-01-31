@@ -87,7 +87,7 @@
 - **Profile:** Student  
 - **Problem Addressed:** Recycling points in Bogotá
 - **Interview (complete):** [Audio](https://uniandes-my.sharepoint.com/:v:/g/personal/s_martinezj_uniandes_edu_co/IQBKa2PRQIitTrgpim_ONgpaASv7FD-xeU5RDHi4RPqAQ24?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=l7Ahbc)
-- **Interview (Summary):**
+- **Interview (Summary):** [Audio](https://uniandes-my.sharepoint.com/:u:/g/personal/s_martinezj_uniandes_edu_co/IQDt1eZ6hwHSRqlfZkaQguyFASXrv1iOTR9NjufizJrzI2U?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=0fK81F)
 
 Note: As instructed by the professor, the full transcript is not included because the interview was conducted in English.
 
