@@ -255,11 +255,10 @@
 
 | # | Question | Purpose | Response |
 |---|---------|---------|----------|
-| 1 | When was the last time you went looking for a place to eat around the university? | Understand how frequent the problem is | Almost every day, especially for lunch between classes |
-| 2 | How do you usually choose where to eat? | Identify decision-making criteria | Mostly by recommendations from friends or by going to places I already know |
-| 3 | Do you feel there are enough ways to discover new places to eat near the university? | Understand discoverability issues | Not really, there are many places but no single platform to see all the options |
-| 4 | How do you feel when you want to try something new but don’t know where to go? | Identify emotions related to the problem | I feel unsure and end up going to the same places as always |
-| 5 | Have you tried using social media or apps to find new places? | Understand current alternatives | Yes, Instagram or Google Maps, but information is usually incomplete or unreliable |
+| 1 | What would you say has been the biggest headache you’ve had as a driver over the years? | Find frecuent problems | People don't showing up and people who don´t pay on time |
+| 2 | Do you feel that doing Wheels requires a lot of constant messaging? Like checking WhatsApp all the time, asking for location, confirming things—do you think that’s tedious, or do you feel the current system works fine? | Evaluating if Whatsapp groups are a problem | Sometimes is tedius but I have already get used to the dynamic. |
+| 3 | And when someone cancels at the last minute, what exactly happens? Why is it such a problem? | Targeting and understanding the problem | If someone cancels at the last minute, you lose that spot and don’t have time to find someone else. Your numbers don’t add up anymore. |
+| 4 | What part of handling payments feels uncomfortable? | Identify the payment problem | Sometimes people just don’t pay. Then you have to message them later, and you don’t even have their contact saved. You get home tired and still have to think, “Okay, who didn’t pay me?” That part is annoying. |
 
 ---
 
