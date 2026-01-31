@@ -395,7 +395,8 @@
 
 # 📍 Journey Maps
 ## Restaurants
-<img width="1196" height="854" alt="image" src="https://github.com/user-attachments/assets/d3e8e215-5571-460e-9572-e98a5e31011b" />
+<img width="1270" height="842" alt="image" src="https://github.com/user-attachments/assets/d01515a2-ca1a-48cb-9963-8db7253fc86f" />
+
 
 ## Wheels
 <img width="1168" height="762" alt="image" src="https://github.com/user-attachments/assets/8c97a2d4-682e-47fc-8912-ecde44920429" />
