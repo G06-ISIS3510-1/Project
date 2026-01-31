@@ -396,12 +396,16 @@ Note: As instructed by the professor, the full transcript is not included becaus
 ---
 
 # 📍 Journey Maps
-## Restaurants
-<img width="1270" height="842" alt="image" src="https://github.com/user-attachments/assets/d01515a2-ca1a-48cb-9963-8db7253fc86f" />
 
+Below you can find the 2 Journey maps, following the observational methodologies described on O1:
+
+## Restaurants
+
+<img width="1778" alt="Restaurant" src="https://github.com/user-attachments/assets/727695f8-f920-4f9c-9169-81d1e0fdd498" />
 
 ## Wheels
-<img width="1168" height="762" alt="image" src="https://github.com/user-attachments/assets/8c97a2d4-682e-47fc-8912-ecde44920429" />
+
+<img width="1778" alt="Wheels" src="https://github.com/user-attachments/assets/73024e7f-0e0f-4716-9031-b9956916b345" />
 
 
 ---
