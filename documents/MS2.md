@@ -395,6 +395,102 @@ Note: As instructed by the professor, the full transcript is not included becaus
 
 ---
 
+## 👤 Interview 6 [Andrés Neira]
+
+- **Interviewee:** Esteban Gómez  
+- **Profile:** Mechanical Engineering Student  
+- **Problem Addressed:** Informal university ride-sharing (Wheels Uniandes)  
+- **Interview (complete):** [Link](https://drive.google.com/file/d/1ClvZSzIFPaexN1dKVL2moGzDHIzvgrw6/view?usp=drive_link)  
+- **Transcription (complete):** [Link](https://docs.google.com/document/d/1aclpVZQvRocdm0RQPfMzEjpmrov2reV_/edit?usp=drive_link&ouid=105071904623649996053&rtpof=true&sd=true)  
+- **Interview (Summary):** [Link](https://drive.google.com/file/d/1nyOY7XU42xBITP_KHXRx638-OtnsP8o-/view?usp=drive_link)
+- **Transcription (Summary):** [Link](https://docs.google.com/document/d/1yw9fzgEqlYgZP0Uc3LriPtfwke7PK7RM/edit?usp=drive_link&ouid=105071904623649996053&rtpof=true&sd=true)  
+
+---
+
+## 📝 Interview Questions & Responses
+
+* **Hypothesis:** University students frequently use informal ride-sharing systems because they are affordable and accessible, but the lack of structure, payment guarantees, and accountability generates frustration, distrust, and inefficiencies for both drivers and passengers.
+
+| #  | Question                                                                 | Purpose                                           | Response                                                                                                                                     |
+| -- | ------------------------------------------------------------------------ | ------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1  | Could you briefly tell me about yourself?                                 | Understand interviewee context                    | Esteban is a Mechanical Engineering student in his seventh semester who lives far from campus and relies on Wheels daily.                  |
+| 2  | What role does Wheels play in your daily routine?                         | Identify frequency and relevance                  | Wheels is his primary transportation option; he both offers rides in the morning and takes rides at night.                                 |
+| 3  | What do you usually do when you need a ride?                              | Understand current user behavior                  | He opens WhatsApp groups and scrolls through many messages to find a suitable ride.                                                         |
+| 4  | How would you describe the experience of using Wheels today?             | Capture emotional and experiential insights       | He describes it as chaotic, manual, and inefficient, working more out of habit than good design.                                           |
+| 5  | How do you coordinate rides with other users?                             | Identify friction points                          | Coordination happens through private chats, repeating details and clarifying information multiple times.                                   |
+| 6  | How is payment usually handled?                                           | Understand financial pain points                  | Payments are informal; people often pay in cash or promise transfers later, which sometimes never happen.                                  |
+| 7  | Have you ever experienced payment issues?                                 | Validate payment problem                          | Yes, several times passengers delayed or never completed payment, creating awkward follow-ups.                                             |
+| 8  | How do cancellations usually work?                                        | Identify reliability issues                       | There are no consequences; people cancel last minute without penalties, affecting planning and trust.                                      |
+| 9  | How does this system affect you as a driver?                              | Understand driver-side impact                     | Driving becomes stressful due to coordination, chasing payments, and lack of guarantees.                                                    |
+| 10 | Why do you think these problems happen so often?                          | Explore root causes                               | Because Wheels operates as an informal chat with no structure, rules, or enforcement mechanisms.                                            |
+| 11 | How important is trust in a system like this?                             | Identify core emotional needs                     | Trust is critical since drivers share private space and time without formal safeguards.                                                     |
+| 12 | How do you think an app would change this experience?                    | Explore solution perception                      | A structured app with payments, confirmations, and penalties would drastically improve reliability and peace of mind.                      |
+| 13 | Would you recommend a more structured version of Wheels?                 | Validate adoption potential                      | Yes, especially if it builds on existing habits while reducing chaos and unfair behavior.                                                   |
+| 14 | If you had to summarize Wheels today in one sentence, what would it be?  | Capture a strong closing insight                  | “A great idea executed in the most chaotic way possible.”                                                                                   |
+
+---
+
+## 💡 Insights – What? How? Why? Who?
+
+### 🔹 Insight 1: Information overload reduces efficiency and increases frustration
+- **What?**  
+  Users struggle to find relevant rides due to message overload in WhatsApp groups.
+- **How?**  
+  They scroll excessively, repost messages, and rely on luck rather than clarity.
+- **Why?**  
+  Because information is unstructured and quickly buried in chat conversations.
+- **Who?**  
+  Students who depend on Wheels daily and need fast, reliable transportation decisions.
+
+---
+
+### 🔹 Insight 2: Informal payment systems erode trust and motivation
+- **What?**  
+  Drivers frequently experience delayed or missing payments.
+- **How?**  
+  They feel uncomfortable asking for money and become demotivated to offer rides.
+- **Why?**  
+  Because there is no enforced payment mechanism or accountability.
+- **Who?**  
+  Student drivers who provide rides regularly and depend on fair compensation.
+
+---
+
+### 🔹 Insight 3: Lack of consequences enables irresponsible behavior
+- **What?**  
+  Passengers cancel rides last minute without repercussions.
+- **How?**  
+  Drivers lose time, planning reliability, and potential earnings.
+- **Why?**  
+  Because the system does not penalize cancellations or no-shows.
+- **Who?**  
+  Drivers who organize their schedules around ride commitments.
+
+---
+
+### 🔹 Insight 4: Trust is central when sharing private spaces
+- **What?**  
+  Users rely on intuition rather than verified information when choosing rides.
+- **How?**  
+  They judge based on profile pictures or names with no performance history.
+- **Why?**  
+  Because there is no rating, review, or verification system.
+- **Who?**  
+  Students concerned about safety, punctuality, and respectful behavior.
+
+---
+
+### 🔹 Insight 5: Structure transforms an existing habit into a reliable service
+- **What?**  
+  Users do not want a new solution, but a better version of what they already use.
+- **How?**  
+  They would adopt an app that reduces friction while keeping affordability.
+- **Why?**  
+  Because Wheels already fits their needs, but lacks organization and fairness.
+- **Who?**  
+  Frequent Wheels users who value efficiency, predictability, and trust.
+
+
 # 📍 Journey Maps
 
 Below you can find the 2 Journey maps, following the observational methodologies described on O1:
