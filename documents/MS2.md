@@ -311,3 +311,21 @@
   Students using car pooling services.
 
 ---
+# 📍 Journey Maps
+## Restaurants
+## Wheels
+
+---
+# 💡Brainstorming Process
+During our brainstorming process, we decided to use post-it notes as a way to quickly externalize our ideas. Based on the insights gathered from our interviews and analysis, we began writing down potential solutions and concepts and placing them on the desk, as shown in the photo. This allowed us to visually organize our thoughts, build on each other’s ideas, and encourage an open and collaborative discussion.
+<img src="https://github.com/user-attachments/assets/374a1f62-a6ef-4b1f-94f3-992f8e293856" alt="drawing" width="600"/> </br>
+
+After generating a wide range of ideas, we organized them into four categories to better evaluate their potential: Rational Choices, The Most Likely to Delight, The Darling, and The Long Shot. This classification helped us compare ideas based on feasibility, user impact, and level of innovation, and allowed us to prioritize which concepts were worth exploring further.
+<img src="https://github.com/user-attachments/assets/84f7604f-abf7-4469-9147-7c6bcffe0a0e" alt="drawing" width="600"/>
+
+Finally after evaluating both projects we decided to prototype the Car Pooling Proyect (Wheels Uniandes) because we found that the problems were beign very painfull for both drivers and users. This way the key ideas we found were the following:
+- Driver and user reviews are key in order to make a better service
+- Having an organized platform without adds were people can enter and find services without belonging to a ton of Whastapp groups
+- Having a quick payment button can make things way faster and easier for users
+- Enforcing a tough cancellation policy can help drivers avoid last minute cancellations
+- Showing drivers location and route will make the service more efficient.
