@@ -313,15 +313,15 @@
 ---
 
 
-## 👤 Interview 1 [Mauricio Urrego]
+## 👤 Interview 6 [Mauricio Urrego]
 
 - **Interviewee:** Yésica Urrego
 - **Profile:** Accountant  
 - **Problem Addressed:** Clothes in Bogotá
-- **Interview (complete):** [Link]() 
-- **Transcription (complete):** 
-- **Interview (Summary):** 
-- **Transcription (Summary):** 
+- **Interview (complete):** [Link](https://uniandes-my.sharepoint.com/:u:/g/personal/o_urregov_uniandes_edu_co/IQCNZzPJh65yQbHoz2KoTsYiAc5e_0oabyLAsmtTPnZI3Ms?e=tngQxe) 
+- **Transcription (complete):** [Link](https://uniandes-my.sharepoint.com/:w:/g/personal/o_urregov_uniandes_edu_co/IQAjqonIP1XOR5_e1SO71A9BAb_YHECmA72s-Vs6Wv3unco?e=BF3MEJ)
+- **Interview (Summary):** [Link](https://uniandes-my.sharepoint.com/:u:/g/personal/o_urregov_uniandes_edu_co/IQCIE2OxhaSFSIIPE0IRd5ajAaAcpjRrJBwm7dEklsH1qsg?e=acyL51)
+- **Transcription (Summary):** [Link](https://uniandes-my.sharepoint.com/:w:/g/personal/o_urregov_uniandes_edu_co/IQAdJidoo78hTYB8p-wkM0ZwAUU5cF8boGBe-dnCJeo6WQE?e=6gjtSq)
 
 ---
 
