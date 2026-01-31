@@ -345,52 +345,56 @@
 
 ## 💡 Insights – What? How? Why? Who?
 
-### 🔹 Insight 1
-- **What?**  
-  Students repeatedly go to the same food places near the university.
-- **How?**  
-  They act conservatively and avoid exploring new options.
-- **Why?**  
-  Because they lack clear and centralized information about the gastronomic offer.
-- **Who?**  
-  University students with limited time between classes.
+### 🔹 Insight 1: Transportation is a major barrier to donating clothes
+
+* **What?**
+  The users may accumulate bags of clothes at home and eventually leave them near trash areas or for recyclers.
+* **How?**
+  They act pragmatically and prioritize convenience when clothes become an obstacle in their daily space.
+* **Why?**
+  Because donation centers are far away and transporting large amounts of clothing is inconvenient.
+* **Who?**
+  Urban adults with limited time, no easy access to transportation, and busy routines.
 
 ---
 
-### 🔹 Insight 2
-- **What?**  
-  Students rely heavily on word-of-mouth recommendations.
-- **How?**  
-  They trust friends more than online information.
-- **Why?**  
-  Because social media and maps often lack updated or relevant details.
-- **Who?**  
-  Students who frequently eat around campus.
+### 🔹 Insight 2: Trust in the correct use of donations influences user behavior
+
+* **What?**
+  The users may donate clothes but observe that many items quickly end up as waste in public spaces.
+* **How?**
+  They feel frustrated and discouraged when donations lead to pollution instead of positive impact.
+* **Why?**
+  Because users want assurance that their donations are being used responsibly.
+* **Who?**
+  Environmentally aware users who care about the social and environmental outcomes of their actions.
 
 ---
 
-### 🔹 Insight 3
-- **What?**  
-  New or small food establishments struggle to be discovered.
-- **How?**  
-  They remain invisible unless located in highly crowded areas.
-- **Why?**  
-  Because promotion depends mostly on physical location or informal advertising.
-- **Who?**  
-  Local food businesses near the university.
+### 🔹 Insight 3: Cultural norms limit donation and second-hand clothing adoption
+
+* **What?**
+  Some users avoid donating worn clothes and do not buy second-hand clothing.
+* **How?**
+  They judge clothing based on condition and newness, often undervaluing reuse.
+* **Why?**
+  Because cultural beliefs associate new clothing with value, dignity, and status.
+* **Who?**
+  Users raised in traditional households where second-hand clothing is not normalized.
 
 ---
 
-### 🔹 Insight 4
-- **What?**  
-  Students want variety but stick to familiar options.
-- **How?**  
-  They feel curious but insecure about trying new places.
-- **Why?**  
-  Because lack of visibility and reviews increases perceived risk.
-- **Who?**  
-  Students interested in exploring different gastronomic options.
-  
+### 🔹 Insight 4: Reframing donation as transformation increases motivation
+
+* **What?**
+  The users might respond positively to the idea of clothes being transformed into new or artistic products.
+* **How?**
+  They feel more motivated when donations are seen as creative reuse rather than disposal.
+* **Why?**
+  Because transformation adds meaning and reduces the feeling of giving away “old” items.
+* **Who?**
+  Users interested in sustainability, creativity, and meaningful impact.
+
 ---
 
 # 📍 Journey Maps
