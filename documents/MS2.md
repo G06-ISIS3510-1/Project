@@ -325,7 +325,7 @@
 
 ## 📝 Interview Questions & Responses
 
-* **Hypthesis:** People want to dispose of clothes responsibly, but lack clear information and easy connections with charities, which leads to usable clothes ending up in landfills.
+* **Hypothesis:** People want to dispose of clothes responsibly, but lack clear information and easy connections with charities, which leads to usable clothes ending up in landfills.
 
 | #  | Question                                                                         | Purpose                                     | Response                                                                                                                              |
 | -- | -------------------------------------------------------------------------------- | ------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
@@ -346,53 +346,49 @@
 ## 💡 Insights – What? How? Why? Who?
 
 ### 🔹 Insight 1: Transportation is a major barrier to donating clothes
-
-* **What?**
+- **What?**
   The users may accumulate bags of clothes at home and eventually leave them near trash areas or for recyclers.
-* **How?**
+- **How?**
   They act pragmatically and prioritize convenience when clothes become an obstacle in their daily space.
-* **Why?**
+- **Why?**
   Because donation centers are far away and transporting large amounts of clothing is inconvenient.
-* **Who?**
+- **Who?**
   Urban adults with limited time, no easy access to transportation, and busy routines.
 
 ---
 
 ### 🔹 Insight 2: Trust in the correct use of donations influences user behavior
-
-* **What?**
+- **What?**
   The users may donate clothes but observe that many items quickly end up as waste in public spaces.
-* **How?**
+- **How?**
   They feel frustrated and discouraged when donations lead to pollution instead of positive impact.
-* **Why?**
+- **Why?**
   Because users want assurance that their donations are being used responsibly.
-* **Who?**
+- **Who?**
   Environmentally aware users who care about the social and environmental outcomes of their actions.
 
 ---
 
 ### 🔹 Insight 3: Cultural norms limit donation and second-hand clothing adoption
-
-* **What?**
+- **What?**
   Some users avoid donating worn clothes and do not buy second-hand clothing.
-* **How?**
+- **How?**
   They judge clothing based on condition and newness, often undervaluing reuse.
-* **Why?**
+- **Why?**
   Because cultural beliefs associate new clothing with value, dignity, and status.
-* **Who?**
+- **Who?**
   Users raised in traditional households where second-hand clothing is not normalized.
 
 ---
 
 ### 🔹 Insight 4: Reframing donation as transformation increases motivation
-
-* **What?**
+- **What?**
   The users might respond positively to the idea of clothes being transformed into new or artistic products.
-* **How?**
+- **How?**
   They feel more motivated when donations are seen as creative reuse rather than disposal.
-* **Why?**
+- **Why?**
   Because transformation adds meaning and reduces the feeling of giving away “old” items.
-* **Who?**
+- **Who?**
   Users interested in sustainability, creativity, and meaningful impact.
 
 ---
