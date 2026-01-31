@@ -169,7 +169,7 @@
 - **Problem Addressed:** University Gastronomic Offer
 - **Interview (complete):** [Audio](https://uniandes-my.sharepoint.com/:u:/g/personal/m_delgordo_uniandes_edu_co/IQB7fmHm3mIsR4xg_yQE5WJOAWUM1-veZbuPJ7Yt3X-W0f4?e=dvnXTf&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 - **Transcription (complete):** [Link](https://uniandes-my.sharepoint.com/:w:/g/personal/m_delgordo_uniandes_edu_co/IQCWxOQfQc7xQIMeBWDHLhtQAQh3dhlVtNAv5ervneRwlOY?e=KenEcz)
-- **Interview (Summary):** [Audio](https://uniandes-my.sharepoint.com/:u:/g/personal/m_delgordo_uniandes_edu_co/IQAPGBB_6ffiQJmHjc_n2XJmAUT8P6ciB6M8ebgEvZOD_Cg?e=soRe7v&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- **Interview (Summary):** [Audio](https://uniandes-my.sharepoint.com/:u:/g/personal/m_delgordo_uniandes_edu_co/IQBvG9VXOyksSaKPTfIU8B71ATEHJPvFzvSM8n3_b15sH1Y?e=5lzhxF&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 - **Transcription (Summary):** [Link](https://uniandes-my.sharepoint.com/:w:/g/personal/m_delgordo_uniandes_edu_co/IQBK5UfBFZEDS5-blvtmjEREAVb2rn1ZTiflulD5w35j7fs?e=r5TCcO)
 
 ---
