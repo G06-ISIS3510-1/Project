@@ -23,17 +23,17 @@ We then organized these ideas using a simple clustering method, comparing their 
 
 ## Output Themes
 
-### Trust & Fairness (red)
+### Trust & Fairness
 - On-time payment tracking
 - Reliability scoring system
 - Arrival and waiting-time detection
 
-### Convenience & Coordination (blue)
+### Convenience & Coordination
 - Centralized ride coordination
 - Real-time tracking
 - In-app communication
 
-### Core Platform (green)
+### Core Platform
 - Student-to-student ride marketplace
 - Smart notifications
 - Incentive-based system
