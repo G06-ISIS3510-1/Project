@@ -38,6 +38,8 @@ We then organized these ideas using a simple clustering method, comparing their 
 - Smart notifications
 - Incentive-based system
 
+<img width="1422" height="799" alt="image" src="https://github.com/user-attachments/assets/cd5a181c-3152-43b5-9147-a284d0104899" />
+
 ---
 
 # Decision Process
@@ -54,7 +56,7 @@ After this divergence phase, ideas were filtered and classified based on **impac
 **User:** Occasional Passenger  
 Student who uses Wheels only in specific situations such as late nights, rain, exams, or emergencies.
 
-*(Insert image here)*
+<img width="1920" height="1080" alt="Ocassional Passenger" src="https://github.com/user-attachments/assets/e7e162aa-1f5c-40a5-8128-1bad5a73507a" />
 
 ---
 
