@@ -64,7 +64,7 @@ Student who uses Wheels only in specific situations such as late nights, rain, e
 **User:** Student Driver  
 Student who offers rides to others to reduce commuting costs or earn extra money.
 
-*(Insert image here)*
+<img width="1920" height="1080" alt="Student Driver" src="https://github.com/user-attachments/assets/fc2f287b-bce7-4b30-9c94-824b42bc6adb" />
 
 ---
 
