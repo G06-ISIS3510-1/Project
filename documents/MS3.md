@@ -90,7 +90,8 @@ A student who rarely uses shared rides and feels insecure or confused when doing
 **Student Driver**  
 A student who owns or has access to a car and offers rides to other students. Is concerned about late payments, delays, and lack of commitment from riders.
 
-*(Insert persona image here)*
+
+![Persona1](https://github.com/user-attachments/assets/c59106d1-dd4a-4313-9dcb-9041975ba012)
 
 ---
 
