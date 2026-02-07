@@ -77,7 +77,7 @@ Student who frequently uses shared rides and values punctuality and fairness.
 ---
 
 ## Empathy Map 4  
-**User:** Female User
+**User:** Female User 
 Female student who ocasionally uses shared rides and feels a little bit insecure.
 <img width="1720" height="1133" alt="Captura de pantalla 2026-02-06 202039" src="https://github.com/user-attachments/assets/6b5d6bed-9d92-448c-b532-9de8b615beaf" />
 
