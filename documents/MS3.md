@@ -53,9 +53,13 @@ Next, we carried out a convergence step in which similar or repeated ideas were 
 
 # Decision Process
 
-The final idea for the semester, **Wheels**, was selected using a divergence and convergence method. Initially, the team explored multiple alternatives, encouraging feedback through the *Yes, and* technique to maintain a collaborative and respectful environment.
+The final idea for the semester, Wheels, was selected through a divergence and convergence process, following the ideation techniques learned in class. During the divergence phase, the team generated multiple ideas using the “Yes, and” approach to encourage open discussion and creativity. Examples of generated ideas included a student-to-student ride service, a centralized app for coordinating rides, real-time location tracking, reliability scoring for drivers and passengers, and notification systems for arrivals and payments.
 
-After this divergence phase, ideas were filtered and classified based on **impact** (high or low) and **effort** (high or low). The final selection was made through a group vote. Wheels was chosen because it directly addresses a real and recurring problem among students, with high potential impact and strong social value.
+In the convergence phase, the team discussed these ideas **verbally** and grouped related concepts, combining complementary features and discarding overlapping ones. Rather than using written post-it notes, the team relied on structured discussion guided by feasibility, relevance to student mobility problems, and alignment with insights obtained from the interviews. A final decision was reached through team voting, ensuring that all members participated equally in the selection process.
+
+A final decision was reached through team voting, resulting in the selection of **Wheels: a centralized carpooling application designed exclusively for Uniandes students**.
+
+Although in a previous milestone (MS2) the team explored an application focused on restaurant discovery and coordination at Uniandes, the convergence process revealed that Wheels addressed a more recurrent and impactful need for students. The voting results reflected a shared agreement that Wheels offered greater potential for user value and for incorporating smart features based on mobile sensors and data.
 
 ---
 
@@ -104,6 +108,8 @@ Student with limited financial resources who depends on low-cost rides.
 ---
 
 # Personas
+
+Based on the empathy maps and insights gathered during the user research phase, we identified recurring behavioral patterns, needs, and motivations among users. As a result, we decided to classify the users into three representative personas that capture the main roles within the Wheels Uniandes ecosystem: Student Driver, Student Passenger, and Student Passenger/Driver:
 
 ## Persona 1  
 **Student Passenger**  
