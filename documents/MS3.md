@@ -56,7 +56,8 @@ After this divergence phase, ideas were filtered and classified based on **impac
 **User:** Occasional Passenger  
 Student who uses Wheels only in specific situations such as late nights, rain, exams, or emergencies.
 
-<img width="1920" height="1080" alt="Ocassional Passenger" src="https://github.com/user-attachments/assets/e7e162aa-1f5c-40a5-8128-1bad5a73507a" />
+<img width="1920" height="1080" alt="Interfaces and options he doesn’t fully understand" src="https://github.com/user-attachments/assets/a0ff4257-61bd-49eb-bd08-8d02f8966fb5" />
+
 
 ---
 
@@ -69,10 +70,11 @@ Student who offers rides to others to reduce commuting costs or earn extra money
 ---
 
 ## Empathy Map 3  
-**User:** Regular Group Rider  
+**User:** Frequent Passenger 
 Student who frequently uses shared rides and values punctuality and fairness.
 
-*(Insert image here)*
+<img width="1920" height="1080" alt="Interfaces and options he doesn’t fully understand (1)" src="https://github.com/user-attachments/assets/9ab16987-8285-43ea-9e22-31cdae7af37a" />
+
 
 ---
 
