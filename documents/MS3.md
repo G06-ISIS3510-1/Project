@@ -1,4 +1,4 @@
-# Brainstorming Process - Smart Features.
+# Brainstorming Process - Smart Features
 
 The brainstorming process started by identifying potential smart features that combine sensors and data to improve the user experience. In parallel, we reflected on common mobility problems faced by university students when commuting from home to campus in order to propose ideas that could address these issues. As a group, we also discussed existing informal solutions, such as students offering rides to other students at lower prices than traditional transportation options.
 
