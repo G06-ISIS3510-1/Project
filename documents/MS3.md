@@ -97,10 +97,10 @@ Student with limited financial resources who depends on low-cost rides.
 # Personas
 
 ## Persona 1  
-**Occasional Passenger**  
-A student who rarely uses shared rides and feels insecure or confused when doing so. Relies heavily on clear guidance, confirmations, and reassurance from the system.
+**Student Passenger**  
+This persona represents students who rely on carpooling as their primary way to commute to university and prioritize safety, reliability, and time efficiency. She reflects users who currently depend on informal coordination through WhatsApp groups and experience stress due to uncertainty and long commute times.
 
-*(Insert persona image here)*
+<img width="1521" height="1636" alt="Passenger" src="https://github.com/user-attachments/assets/15956dd5-5622-4290-857f-a3d9ae8861a8" />
 
 ---
 
@@ -114,10 +114,10 @@ A student who owns or has access to a car and offers rides to other students. Is
 ---
 
 ## Persona 3  
-**Regular Group Rider**  
-A student who frequently participates in shared rides and expects punctuality, clear coordination, and fair cost-sharing.
+**Student Passenger / Driver (Hybrid)**  
+This persona represents students who alternate between offering and requesting rides depending on their daily access to a car and schedule. He reflects users who seek flexibility and cost optimization while coordinating carpooling through unstructured communication channels.
 
-*(Insert persona image here)*
+<img width="1521" height="1636" alt="Hybrid" src="https://github.com/user-attachments/assets/cd3aa37e-240a-4868-b601-67747d3384d5" />
 
 ---
 
