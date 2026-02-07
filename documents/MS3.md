@@ -49,8 +49,6 @@ Next, we carried out a convergence step in which similar or repeated ideas were 
 
 <img width="1328" height="758" alt="Screenshot 2026-02-07 002804" src="https://github.com/user-attachments/assets/f505c5f1-00f8-439d-80e6-3a0ba701b5a3" />
 
-<img width="1422" height="799" alt="image" src="https://github.com/user-attachments/assets/cd5a181c-3152-43b5-9147-a284d0104899" />
-
 ---
 
 # Decision Process
