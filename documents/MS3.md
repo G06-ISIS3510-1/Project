@@ -51,7 +51,7 @@ Next, we carried out a convergence step in which similar or repeated ideas were 
 
 ---
 
-# Decision Process
+# Decision Process - The idea for the semester
 
 The final idea for the semester, Wheels, was selected through a divergence and convergence process, following the ideation techniques learned in class. During the divergence phase, the team generated multiple ideas using the “Yes, and” approach to encourage open discussion and creativity. Examples of generated ideas included a student-to-student ride service, a centralized app for coordinating rides, real-time location tracking, reliability scoring for drivers and passengers, and notification systems for arrivals and payments.
 
@@ -145,6 +145,11 @@ Through Wheels, student drivers can offer rides while passengers can join trips 
 To address common issues such as late payments and delays, Wheels includes a **Reliability and Rewards system** that tracks punctual arrivals, waiting behavior, and on-time payments. Responsible users are rewarded, while unreliable behavior is discouraged through transparent feedback rather than punishment.
 
 By focusing on coordination, fairness, and trust, Wheels improves the shared ride experience for both drivers and passengers, making student commuting more affordable, organized, and stress-free.
+
+The diagram below gives an overview of how Wheels works and how the main parts of the system connect to each other. It shows how drivers and passengers interact through the app to coordinate rides, how trips are followed in real time, and how reliability and rewards are built from what happens during each ride:
+
+<img width="1641" height="521" alt="High level diagram" src="https://github.com/user-attachments/assets/05a453af-2493-45a4-9be5-3518c5f19f42" />
+
 
 ---
 
