@@ -1,10 +1,10 @@
-# Brainstorming Process
+# Brainstorming Process - Smart Features.
 
-The brainstorming process started by identifying common mobility problems faced by university students when commuting from home to campus. As a group, we discussed existing informal solutions where students offer rides to other students at lower prices than traditional transportation options.
+The brainstorming process started by identifying potential smart features that combine sensors and data to improve the user experience. In parallel, we reflected on common mobility problems faced by university students when commuting from home to campus in order to propose ideas that could address these issues. As a group, we also discussed existing informal solutions, such as students offering rides to other students at lower prices than traditional transportation options.
 
 Each idea was proposed openly and discussed in terms of feasibility, value for students, and potential to solve recurring issues such as lack of payment, poor coordination, delays, and unclear communication. After the discussion, we shortlisted the most promising ideas.
 
-We then organized these ideas using a simple clustering method, comparing their potential impact and feasibility. This process helped us define a clear direction for the decision-making stage.
+We then organized these ideas using a simple clustering method, comparing their potential impact and feasibility. 
 
 ---
 
@@ -37,6 +37,17 @@ We then organized these ideas using a simple clustering method, comparing their 
 - Student-to-student ride marketplace
 - Smart notifications
 - Incentive-based system
+
+---
+
+As described previously and following the techniques learned in class, we first conducted a group brainstorming session where all members contributed ideas. These ideas were captured using a virtual whiteboard, where we deliberately avoided using “but” and instead adopted the “yes, and” approach to encourage idea expansion. Each group member added their proposals to a shared virtual Padlet, as shown below:
+
+<img width="1335" height="740" alt="Screenshot 2026-02-07 003425" src="https://github.com/user-attachments/assets/87cb9096-306c-4a62-aaa2-65b4344a5870" />
+
+Next, we carried out a convergence step in which similar or repeated ideas were combined, and others were selected based on team voting. Ideas that overlapped significantly were removed, and the remaining ones were classified into the categories “Rational Choice,” “Most Likely to Delight,” “The Darling,” and “The Long Shot.”:
+
+
+<img width="1328" height="758" alt="Screenshot 2026-02-07 002804" src="https://github.com/user-attachments/assets/f505c5f1-00f8-439d-80e6-3a0ba701b5a3" />
 
 <img width="1422" height="799" alt="image" src="https://github.com/user-attachments/assets/cd5a181c-3152-43b5-9147-a284d0104899" />
 
