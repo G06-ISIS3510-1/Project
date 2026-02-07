@@ -64,8 +64,8 @@ Student who uses Wheels only in specific situations such as late nights, rain, e
 ## Empathy Map 2  
 **User:** Student Driver  
 Student who offers rides to others to reduce commuting costs or earn extra money.
+<img width="1060" height="657" alt="Captura de pantalla 2026-02-07 a la(s) 12 14 42 a  m" src="https://github.com/user-attachments/assets/3460db8e-e9fc-44ef-9b7b-8af0212eee32" />
 
-<img width="1920" height="1080" alt="Student Driver" src="https://github.com/user-attachments/assets/fc2f287b-bce7-4b30-9c94-824b42bc6adb" />
 
 ---
 
@@ -83,6 +83,13 @@ Student who frequently uses shared rides and values punctuality and fairness.
 Female student who ocasionally uses shared rides and feels a little bit insecure.
 <img width="1720" height="1133" alt="Captura de pantalla 2026-02-06 202039" src="https://github.com/user-attachments/assets/6b5d6bed-9d92-448c-b532-9de8b615beaf" />
 
+
+---
+
+## Empathy Map 5  
+**User:** Budget-Conscious Student 
+Student with limited financial resources who depends on low-cost rides.
+<img width="1060" height="659" alt="Captura de pantalla 2026-02-07 a la(s) 12 10 06 a  m" src="https://github.com/user-attachments/assets/e1531a2d-fc36-4012-94b2-07edd3443a5b" />
 
 
 ---
