@@ -113,7 +113,7 @@ Based on the empathy maps and insights gathered during the user research phase, 
 
 ## Persona 1  
 **Student Passenger**  
-This persona represents students who rely on carpooling as their primary way to commute to university and prioritize safety, reliability, and time efficiency. She reflects users who currently depend on informal coordination through WhatsApp groups and experience stress due to uncertainty and long commute times.
+**Description:** The Student Passenger depends on carpooling as a regular way of getting to campus, especially when public transportation feels too slow, crowded, or unsafe. She often starts her day early and wants a commute that feels predictable and calm, without having to send multiple messages or wait for replies in busy WhatsApp groups. Uncertainty about pickup times, driver availability, or delays adds stress to her routine and affects how she plans her day. What she values most is feeling safe, informed, and on time. 
 
 <img width="1521" height="1636" alt="Passenger" src="https://github.com/user-attachments/assets/15956dd5-5622-4290-857f-a3d9ae8861a8" />
 
@@ -121,7 +121,7 @@ This persona represents students who rely on carpooling as their primary way to 
 
 ## Persona 2  
 **Student Driver**  
-A student who owns or has access to a car and offers rides to other students. Is concerned about late payments, delays, and lack of commitment from riders.
+**Description:** The Student Driver is a Uniandes student who usually goes to campus by car and often has empty seats during the trip. Offering rides to other students helps them reduce fuel and parking costs, but only if it doesn’t make their commute more complicated or stressful. Right now, they rely on WhatsApp groups to coordinate rides, which often leads to last-minute changes, uncertainty about whether passengers will arrive on time, and awkward payment situations. They care about efficiency and fairness, and they want to feel confident  that the users will pay.
 
 
 ![Persona1](https://github.com/user-attachments/assets/c59106d1-dd4a-4313-9dcb-9041975ba012)
@@ -130,7 +130,7 @@ A student who owns or has access to a car and offers rides to other students. Is
 
 ## Persona 3  
 **Student Passenger / Driver (Hybrid)**  
-This persona represents students who alternate between offering and requesting rides depending on their daily access to a car and schedule. He reflects users who seek flexibility and cost optimization while coordinating carpooling through unstructured communication channels.
+**Description:** The Student Passenger / Driver moves between being a driver and a passenger depending on the day, their schedule, and whether they have access to a car. Some days they are happy to offer rides and share costs, while on others they prefer to ride with someone else to save time or money. This flexibility makes informal coordination difficult, as switching roles repeatedly in WhatsApp groups can become confusing and inefficient. They want a system that adapts to their changing needs without requiring extra effort or explanation.
 
 <img width="1521" height="1636" alt="Hybrid" src="https://github.com/user-attachments/assets/cd3aa37e-240a-4868-b601-67747d3384d5" />
 
