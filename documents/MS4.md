@@ -1,5 +1,4 @@
 # Problem & Solution Description
---
 #### Problem Description
 University students often face daily mobility challenges that make commuting to campus expensive, disorganized, and stressful. Many rely on public transportation or ride-hailing services that, over time, consume a significant portion of their monthly budget. Informal ride arrangements between students usually happen through messaging apps or social media, which leads to last-minute cancellations, miscommunication, payment delays, uncertainty about arrival times, and safety concerns. Additionally, there is often a lack of trust and accountability between drivers and passengers, making shared commuting unreliable and frustrating for both sides.
 
@@ -7,11 +6,9 @@ University students often face daily mobility challenges that make commuting to 
 Wheels is a structured, student-to-student mobility platform designed to make commuting more affordable, coordinated, and trustworthy. The app centralizes ride scheduling, seat availability, and payments in a single system, eliminating informal and disorganized arrangements. With real-time location tracking, automated notifications, verified university profiles, and a Reliability and Rewards system, Wheels encourages punctuality, responsible behavior, and fairness. By improving coordination, transparency, and trust, Wheels transforms the student commuting experience into a more efficient, safe, and stress-free solution.
 
 # Analytics persona
---
 
 
 # Problems-Alternative-Solutions (PAS)
---
 | ID | Problem | Alternative | Solution |
 |----|----------|------------|-----------|
 | 1 | Many university students spend a large portion of their monthly budget on transportation to campus. | They use public transportation or ride-hailing apps despite the high cumulative cost. | Wheels provides a student-to-student ride-sharing platform with significantly lower per-trip costs. |
@@ -28,8 +25,5 @@ Wheels is a structured, student-to-student mobility platform designed to make co
 | 12 | Students who behave responsibly receive no recognition compared to unreliable users. | Good users feel unmotivated and stop participating actively. | Wheels includes a Reliability and Rewards system that incentivizes punctual arrivals and responsible behavior. |
 
 # Context Canvas
---
 # 10 Business Questions
---
 # VD Map
---
