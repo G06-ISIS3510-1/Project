@@ -6,6 +6,9 @@ University students often face daily mobility challenges that make commuting to 
 Wheels is a structured, student-to-student mobility platform designed to make commuting more affordable, coordinated, and trustworthy. The app centralizes ride scheduling, seat availability, and payments in a single system, eliminating informal and disorganized arrangements. With real-time location tracking, automated notifications, verified university profiles, and a Reliability and Rewards system, Wheels encourages punctuality, responsible behavior, and fairness. By improving coordination, transparency, and trust, Wheels transforms the student commuting experience into a more efficient, safe, and stress-free solution.
 
 # Analytics persona
+ 
+**Description:** This analytics persona represents a data-driven professional responsible for understanding user behavior and improving platform performance. With experience in mobility and digital platforms, this persona focuses on analyzing ride patterns, identifying retention drivers, and transforming operational data into strategic insights. Their main objective is to support data-informed decisions that enhance reliability, reduce churn, and enable sustainable business growth.
+<img width="1521" height="1636" alt="Analytics Persona drawio" src="https://github.com/user-attachments/assets/2fa20be5-8eeb-49e6-af2b-a281ca7f27a7" />
 
 
 # Problems-Alternative-Solutions (PAS)
