@@ -30,3 +30,6 @@ Wheels is a structured, student-to-student mobility platform designed to make co
 # Context Canvas
 # 10 Business Questions
 # VD Map
+<img width="1521" height="1636" alt="VD Map" src="https://github.com/user-attachments/assets/90cb1125-ab93-4181-b81b-3976613dd359" />
+
+
