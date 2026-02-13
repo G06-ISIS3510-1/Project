@@ -29,6 +29,73 @@ Wheels is a structured, student-to-student mobility platform designed to make co
 
 # Context Canvas
 # 10 Business Questions
+# 10 Business Questions
+
+## Type 1 – App's Telemetry
+**Q1.**  How many new users our app has each week?
+
+**Justification:**  This is a Type 1 question because it focuses in a descriptive characteristic of the app, while also providing data that con be used to take decisions (such as marketing campaigns).
+
+---
+
+## Type 2 – Direct user experience improvement
+
+**Q2.**  Where is the user going based on his location?
+
+**Justification:**  By identifying where the user is, we can recommend a ride that best suits his necessity (if he's far from university, we can suggest rides that go there)
+
+**Q3.**  Which time is the user using the app more frequently?
+
+**Justification:**  We can send notifications to users at specific hours of a day based on his/her previous usage habits.
+
+**Q4.**  Do users have a pattern (in terms of time before ride) on their cancellations?
+
+**Justification:**  Some users may forget to cancel a ride they will not take, so by identifying how much time before a ride most cancellations take place, we can send him/her a notification asking if they are still interested in the ride they booked.
+
+**Q5.**  How frequently a user cancels his rides?
+
+**Justification:**  The app can manage a 'cancellation rating' where users that cancel a ride too close to the time it was scheduled get a harsher punishment than those that cancelled ahead of time.
+
+
+---
+
+## Type 3 – Features analysis
+
+**Q6.**  
+(Write the business question here)
+
+**Justification:**  
+
+**Q7.**  
+(Write the business question here)
+
+**Justification:**  
+
+**Q8.**  
+(Write the business question here)
+
+**Justification:**  
+
+---
+
+##  Type 4 – Benefits from data
+
+**Q9.**  
+(Write the business question here)
+
+**Justification:**  
+
+---
+
+##  Type 5 – *
+
+**Q10.**  
+(Write the business question here)
+
+**Justification:**  
+
+---
+
 # VD Map
 <img width="1521" height="1636" alt="VD Map" src="https://github.com/user-attachments/assets/90cb1125-ab93-4181-b81b-3976613dd359" />
 
