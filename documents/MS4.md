@@ -102,6 +102,9 @@ Wheels is a structured, student-to-student mobility platform designed to make co
 ---
 
 # VD Map
+
+**Description:** The next VD map shows how Wheels transforms raw data from the **User DB**, **Rides DB**, and phone context data (such as user location and time) into meaningful insights that answer our 10 business questions. The flow begins with data sources, continues through aggregation processes like calculating total new users per week, average cancellations per user, time spent per feature, most frequent destinations, seat reservation usage, and ad clicks, and then presents the results using visualizations such as line graphs, bar charts, pie charts, and simple lists. Each visualization directly answers a specific question (color-coded by type), clearly connecting backend data processing with user experience improvements, feature evaluation, telemetry monitoring, and business decision-making.
+
 <img width="1521" height="1636" alt="VD Map" src="https://github.com/user-attachments/assets/90cb1125-ab93-4181-b81b-3976613dd359" />
 
 
