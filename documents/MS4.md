@@ -88,9 +88,8 @@ Wheels is a structured, student-to-student mobility platform designed to make co
 ##  Type 5 – * 
 
 **Q10.**  Which are the most frecuent destinations of a user. **Type 2 & Type 4**
-This questions allow us to recommend better trips to our users by knowing their most frecuent destinations, so it serves as a type 2 question, howerver by doing this we can increase the amount of users that use our app having more revenue through adds, this way it serves a double purpose as a type 4.
 
-**Justification:**  
+**Justification:**  This questions allow us to recommend better trips to our users by knowing their most frecuent destinations, so it serves as a type 2 question, howerver by doing this we can increase the amount of users that use our app having more revenue through adds, this way it serves a double purpose as a type 4.
 
 ---
 
