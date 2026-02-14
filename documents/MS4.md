@@ -12,6 +12,9 @@ Wheels is a structured, student-to-student mobility platform designed to make co
 
 
 # Problems-Alternative-Solutions (PAS)
+
+**Description:** The following Problems–Alternative–Solutions (PAS) list was developed through a structured brainstorming session, applying the “yes… and” technique discussed in class. We identified both expressed needs (such as high transportation costs and disorganization) and latent needs (like trust, recognition, and reliability), then analyzed how students currently solve these issues through informal work-arounds. Based on this analysis, we generated alternative solutions that improve those existing practices and clearly demonstrate how Wheels creates greater value compared to current options.
+
 | ID | Problem | Alternative | Solution |
 |----|----------|------------|-----------|
 | 1 | Many university students spend a large portion of their monthly budget on transportation to campus. | They use public transportation or ride-hailing apps despite the high cumulative cost. | Wheels provides a student-to-student ride-sharing platform with significantly lower per-trip costs. |
