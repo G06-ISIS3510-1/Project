@@ -33,6 +33,7 @@ Wheels is a structured, student-to-student mobility platform designed to make co
 # Context Canvas
 
 **Description:** The following Context Canvas shows how Wheels fits into the real-world environment where it will be used. It connects the personas, the mobile app, and the backend services to explain how they interact with each other, what information flows between them, and what technical conditions and constraints must be considered. By looking at all these elements together, we can better understand how the solution works as a whole.
+<img width="926" height="574" alt="Captura de pantalla 2026-02-13 a la(s) 10 29 47 p  m" src="https://github.com/user-attachments/assets/6ad826ee-2415-4add-9b36-484add06e11a" />
 
 
 # 10 Business Questions
