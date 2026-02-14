@@ -61,36 +61,34 @@ Wheels is a structured, student-to-student mobility platform designed to make co
 
 ## Type 3 – Features analysis
 
-**Q6.**  
-(Write the business question here)
+**Q6.**  Which features are passangers spending more time on?
 
-**Justification:**  
+**Justification:**  This question helps us identify which app features are relevant to passangers and this is key for type 3 questions, because their are related with the introduction of new features in our app.
 
-**Q7.**  
-(Write the business question here)
+**Q7.**  Which features are drivers spending more time on?
 
-**Justification:**  
 
-**Q8.**  
-(Write the business question here)
+**Justification:**  Similar to the last question, this one allow us to comprehend if features are necessary but this time on the driver's side.
 
-**Justification:**  
+**Q8.**  Do passangers use the seat assignation method?
+
+
+**Justification:**  In this question we are pursuing to know if a functionality is useful to drivers and passangers, in this case we will test and count to know if users do like our function.
 
 ---
 
 ##  Type 4 – Benefits from data
 
-**Q9.**  
-(Write the business question here)
+**Q9.**  Which type/location of adds produce the most amout of clicks?
 
-**Justification:**  
+**Justification:**  This question help us understand where and how to place our adds, if adds do have clicks, then we can have more revenue from our sponsors and then we can have a more profitable business.
 
 ---
 
-##  Type 5 – *
+##  Type 5 – * 
 
-**Q10.**  
-(Write the business question here)
+**Q10.**  Which are the most frecuent destinations of a user. **Type 2 & Type 4**
+This questions allow us to recommend better trips to our users by knowing their most frecuent destinations, so it serves as a type 2 question, howerver by doing this we can increase the amount of users that use our app having more revenue through adds, this way it serves a double purpose as a type 4.
 
 **Justification:**  
 
