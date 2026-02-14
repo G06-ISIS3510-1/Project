@@ -37,6 +37,8 @@ Wheels is a structured, student-to-student mobility platform designed to make co
 
 # 10 Business Questions
 
+**Description:** In the following section, we present the main business questions that guide the development of Wheels. These questions were designed based on the five types proposed in the book, allowing us to use analytics not only to monitor the app’s performance, but also to improve user experience, evaluate features, and explore potential business opportunities in a structured and measurable way.
+
 ## Type 1 – App's Telemetry
 **Q1.**  How many new users our app has each week?
 
