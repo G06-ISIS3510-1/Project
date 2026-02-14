@@ -31,7 +31,10 @@ Wheels is a structured, student-to-student mobility platform designed to make co
 | 12 | Students who behave responsibly receive no recognition compared to unreliable users. | Good users feel unmotivated and stop participating actively. | Wheels includes a Reliability and Rewards system that incentivizes punctual arrivals and responsible behavior. |
 
 # Context Canvas
-# 10 Business Questions
+
+**Description:** The following Context Canvas shows how Wheels fits into the real-world environment where it will be used. It connects the personas, the mobile app, and the backend services to explain how they interact with each other, what information flows between them, and what technical conditions and constraints must be considered. By looking at all these elements together, we can better understand how the solution works as a whole.
+
+
 # 10 Business Questions
 
 ## Type 1 – App's Telemetry
