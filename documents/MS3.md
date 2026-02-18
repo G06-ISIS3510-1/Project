@@ -86,7 +86,8 @@ Student who offers rides to others to reduce commuting costs or earn extra money
 **User:** Frequent Passenger 
 Student who frequently uses shared rides and values punctuality and fairness.
 
-<img width="1920" height="1080" alt="Interfaces and options he doesn’t fully understand (1)" src="https://github.com/user-attachments/assets/9ab16987-8285-43ea-9e22-31cdae7af37a" />
+<img width="1005" height="637" alt="Captura de pantalla 2026-02-18 a la(s) 9 11 17 a  m" src="https://github.com/user-attachments/assets/a3ead0cb-9552-44c5-a173-12a703304d6f" />
+
 
 
 ---
