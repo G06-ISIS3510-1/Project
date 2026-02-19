@@ -4,13 +4,13 @@
 
 Urban mobility represents a daily challenge for university students, especially in large cities where public transportation is often overcrowded, unreliable, or perceived as unsafe. In this context, many students rely on informal ride-sharing systems organized through messaging applications, which lack structure, transparency, and accountability. These informal practices generate coordination problems, payment conflicts, and trust issues that negatively affect students’ commuting experience.
 
-This project proposes **NOMBRE_APP**, a digital platform designed to improve student-to-student carpooling at Universidad de los Andes. Through a user-centered design approach and data-driven analysis, NOMBRE_APP aims to transform informal transportation coordination into a reliable, accessible, and community-oriented mobility system.
+This project proposes Wheels, a digital platform designed to improve student-to-student carpooling at Universidad de los Andes. Through a user-centered design approach and data-driven analysis, Wheels aims to transform informal transportation coordination into a reliable, accessible, and community-oriented mobility system.
 
 ---
 
 ## 1. Project Contextualization
 
-This section describes the main problem addressed by the project, the proposed solution, the adopted revenue model, and the value proposition of NOMBRE_APP.
+This section describes the main problem addressed by the project, the proposed solution, the adopted revenue model, and the value proposition of Wheels.
 
 ### 1.1 Selected Problem
 
@@ -24,9 +24,9 @@ Overall, the current situation forces students to choose between high-cost comme
 
 ### 1.2 Proposed Solution
 
-NOMBRE_APP is a mobile application that provides a structured, secure, and student-centered carpooling platform exclusively for Universidad de los Andes students. The platform replaces informal coordination with centralized ride management and transparent interaction mechanisms.
+Wheels is a mobile application that provides a structured, secure, and student-centered carpooling platform exclusively for Universidad de los Andes students. The platform replaces informal coordination with centralized ride management and transparent interaction mechanisms.
 
-Key features of NOMBRE_APP include:
+Key features of Wheels include:
 
 - Institutional user verification through university credentials.
 - Structured ride publishing, booking, and confirmation.
@@ -36,19 +36,19 @@ Key features of NOMBRE_APP include:
 - Easy switching between driver and passenger modes.
 - Automated notifications and status updates.
 
-By integrating these features into a single platform, NOMBRE_APP simplifies coordination, reduces uncertainty, and improves trust among users, enabling more efficient and predictable daily commuting.
+By integrating these features into a single platform, Wheels simplifies coordination, reduces uncertainty, and improves trust among users, enabling more efficient and predictable daily commuting.
 
 ---
 
 ### 1.3 Revenue Model
 
-NOMBRE_APP adopts a community-centered and accessibility-oriented revenue model that prioritizes affordability for students. All core transportation services are completely free of charge, ensuring that the platform does not increase commuting costs.
+Wheels adopts a community-centered and accessibility-oriented revenue model that prioritizes affordability for students. All core transportation services are completely free of charge, ensuring that the platform does not increase commuting costs.
 
 The primary source of revenue is voluntary user donations, allowing satisfied users to contribute to the maintenance and continuous improvement of the platform. This approach encourages community engagement and reinforces trust.
 
-Additionally, NOMBRE_APP incorporates non-intrusive native advertising focused on local businesses and student entrepreneurship, such as nearby shops, services, and small student ventures. These advertisements are contextually relevant and designed to avoid disrupting the user experience.
+Additionally, Wheels incorporates non-intrusive native advertising focused on local businesses and student entrepreneurship, such as nearby shops, services, and small student ventures. These advertisements are contextually relevant and designed to avoid disrupting the user experience.
 
-In the long term, NOMBRE_APP may implement an optional freemium model, offering advanced features such as driver profile highlighting (subject to reliability standards) and advanced analytics dashboards. These premium features provide additional value without affecting access to essential services.
+In the long term, Wheels may implement an optional freemium model, offering advanced features such as driver profile highlighting (subject to reliability standards) and advanced analytics dashboards. These premium features provide additional value without affecting access to essential services.
 
 This hybrid model ensures financial sustainability while preserving fairness and accessibility.
 
@@ -56,11 +56,11 @@ This hybrid model ensures financial sustainability while preserving fairness and
 
 ### 1.4 Value Proposition
 
-NOMBRE_APP provides Universidad de los Andes students with a free, secure, and structured carpooling platform that replaces informal coordination through messaging applications. By integrating verified profiles, automated bookings, real-time tracking, and transparent reputation systems, NOMBRE_APP reduces uncertainty, improves safety, and simplifies daily commuting.
+Wheels provides Universidad de los Andes students with a free, secure, and structured carpooling platform that replaces informal coordination through messaging applications. By integrating verified profiles, automated bookings, real-time tracking, and transparent reputation systems, Wheels reduces uncertainty, improves safety, and simplifies daily commuting.
 
-Unlike commercial ride-hailing services that increase transportation costs through commissions, NOMBRE_APP prioritizes community trust and affordability. At the same time, it offers greater reliability and organization than informal alternatives.
+Unlike commercial ride-hailing services that increase transportation costs through commissions, Wheels prioritizes community trust and affordability. At the same time, it offers greater reliability and organization than informal alternatives.
 
-Through its student-focused design and ethical monetization approach, NOMBRE_APP enables efficient, low-cost, and predictable mobility while strengthening cooperation within the university community.
+Through its student-focused design and ethical monetization approach, Wheels enables efficient, low-cost, and predictable mobility while strengthening cooperation within the university community.
 
 
 ---
@@ -68,22 +68,22 @@ Through its student-focused design and ethical monetization approach, NOMBRE_APP
 
 ## 2. Problems-Alternative-Solutions (PAS)
 
-**Description:** The following Problems–Alternative–Solutions (PAS) list was developed through a structured brainstorming session, applying the “yes… and” technique discussed in class. We identified both expressed needs (such as high transportation costs and disorganization) and latent needs (like trust, recognition, and reliability), then analyzed how students currently solve these issues through informal work-arounds. Based on this analysis, we generated alternative solutions that improve those existing practices and clearly demonstrate how NOMBRE_APP creates greater value compared to current options.
+**Description:** The following Problems–Alternative–Solutions (PAS) list was developed through a structured brainstorming session, applying the “yes… and” technique discussed in class. We identified both expressed needs (such as high transportation costs and disorganization) and latent needs (like trust, recognition, and reliability), then analyzed how students currently solve these issues through informal work-arounds. Based on this analysis, we generated alternative solutions that improve those existing practices and clearly demonstrate how Wheels creates greater value compared to current options.
 
 | ID | Problem | Alternative | Solution |
 |----|----------|------------|-----------|
-| 1 | Many university students spend a large portion of their monthly budget on transportation to campus. | They use public transportation or ride-hailing apps despite the high cumulative cost. | NOMBRE_APP provides a student-to-student ride-sharing platform with significantly lower per-trip costs. |
-| 2 | Informal ride coordination between students is disorganized and unreliable. | Students arrange rides through WhatsApp or social media, leading to confusion and cancellations. | NOMBRE_APP centralizes ride scheduling and confirmations in one structured app. |
-| 3 | Students often feel uncertain about pickup times and arrival estimates. | They constantly message or call the driver for updates. | NOMBRE_APP integrates real-time location tracking to monitor routes and confirm arrivals. |
-| 4 | Drivers experience delayed or incomplete payments from passengers. | They demand cash upfront or stop offering rides. | NOMBRE_APP includes integrated payment tracking and reliability scoring for on-time payments. |
-| 5 | Passengers frequently deal with late drivers and excessive waiting times. | They return to more expensive but predictable transportation services. | NOMBRE_APP implements a Reliability and Rewards system that encourages punctuality. |
-| 6 | There is a lack of trust between student drivers and passengers. | Students prefer commuting alone or using impersonal transportation services. | NOMBRE_APP verifies university profiles and includes transparent reliability feedback metrics. |
-| 7 | Students are unaware of peers traveling similar routes at similar times. | They assume no ride is available and use alternative transport. | NOMBRE_APP allows users to filter rides by schedule, location, and availability. |
-| 8 | Drivers often travel with empty seats, missing the opportunity to share costs. | They absorb the full fuel and transportation expense. | NOMBRE_APP allows drivers to publish available seats and match with students heading the same way. |
-| 9 | Last-minute changes create stress and miscommunication between users. | Students rely on repeated messaging or cancel trips. | NOMBRE_APP sends automated notifications and real-time updates to reduce confusion. |
-| 10 | Students feel commuting is stressful due to unpredictability and lack of structure. | They tolerate inefficient systems or overpay for convenience. | NOMBRE_APP improves coordination through structured bookings and route monitoring. |
-| 11 | Some students worry about safety when sharing rides informally. | They avoid shared rides and use crowded public transport instead. | NOMBRE_APP provides verified student-only access and real-time trip tracking for increased safety. |
-| 12 | Students who behave responsibly receive no recognition compared to unreliable users. | Good users feel unmotivated and stop participating actively. | NOMBRE_APP includes a Reliability and Rewards system that incentivizes punctual arrivals and responsible behavior. |
+| 1 | Many university students spend a large portion of their monthly budget on transportation to campus. | They use public transportation or ride-hailing apps despite the high cumulative cost. | Wheels provides a student-to-student ride-sharing platform with significantly lower per-trip costs. |
+| 2 | Informal ride coordination between students is disorganized and unreliable. | Students arrange rides through WhatsApp or social media, leading to confusion and cancellations. | Wheels centralizes ride scheduling and confirmations in one structured app. |
+| 3 | Students often feel uncertain about pickup times and arrival estimates. | They constantly message or call the driver for updates. | Wheels integrates real-time location tracking to monitor routes and confirm arrivals. |
+| 4 | Drivers experience delayed or incomplete payments from passengers. | They demand cash upfront or stop offering rides. | Wheels includes integrated payment tracking and reliability scoring for on-time payments. |
+| 5 | Passengers frequently deal with late drivers and excessive waiting times. | They return to more expensive but predictable transportation services. | Wheels implements a Reliability and Rewards system that encourages punctuality. |
+| 6 | There is a lack of trust between student drivers and passengers. | Students prefer commuting alone or using impersonal transportation services. | Wheels verifies university profiles and includes transparent reliability feedback metrics. |
+| 7 | Students are unaware of peers traveling similar routes at similar times. | They assume no ride is available and use alternative transport. | Wheels allows users to filter rides by schedule, location, and availability. |
+| 8 | Drivers often travel with empty seats, missing the opportunity to share costs. | They absorb the full fuel and transportation expense. | Wheels allows drivers to publish available seats and match with students heading the same way. |
+| 9 | Last-minute changes create stress and miscommunication between users. | Students rely on repeated messaging or cancel trips. | Wheels sends automated notifications and real-time updates to reduce confusion. |
+| 10 | Students feel commuting is stressful due to unpredictability and lack of structure. | They tolerate inefficient systems or overpay for convenience. | Wheels improves coordination through structured bookings and route monitoring. |
+| 11 | Some students worry about safety when sharing rides informally. | They avoid shared rides and use crowded public transport instead. | Wheels provides verified student-only access and real-time trip tracking for increased safety. |
+| 12 | Students who behave responsibly receive no recognition compared to unreliable users. | Good users feel unmotivated and stop participating actively. | Wheels includes a Reliability and Rewards system that incentivizes punctual arrivals and responsible behavior. |
 
 
 ---
@@ -91,7 +91,7 @@ Through its student-focused design and ethical monetization approach, NOMBRE_APP
 
 ## 3. Context Canvas
 
-**Description:** The following Context Canvas shows how NOMBRE_APP fits into the real-world environment where it will be used. It connects the personas, the mobile app, and the backend services to explain how they interact with each other, what information flows between them, and what technical conditions and constraints must be considered. By looking at all these elements together, we can better understand how the solution works as a whole.
+**Description:** The following Context Canvas shows how Wheels fits into the real-world environment where it will be used. It connects the personas, the mobile app, and the backend services to explain how they interact with each other, what information flows between them, and what technical conditions and constraints must be considered. By looking at all these elements together, we can better understand how the solution works as a whole.
 
 <img width="4630" height="2864" alt="ContextCanvasG16 drawio (1)" src="https://github.com/user-attachments/assets/9e0d7342-493b-41cf-b70e-54438d604706" />
 
@@ -101,7 +101,7 @@ Through its student-focused design and ethical monetization approach, NOMBRE_APP
 
 ## 4. Personas
 
-Based on the empathy maps and insights gathered during the user research phase, we identified recurring behavioral patterns, needs, and motivations among users. As a result, we decided to classify the users into three representative personas that capture the main roles within the NOMBRE_APP Uniandes ecosystem: Student Driver, Student Passenger, and Student Passenger/Driver:
+Based on the empathy maps and insights gathered during the user research phase, we identified recurring behavioral patterns, needs, and motivations among users. As a result, we decided to classify the users into three representative personas that capture the main roles within the Wheels Uniandes ecosystem: Student Driver, Student Passenger, and Student Passenger/Driver:
 
 
 ### 4.1 Prospective personas
@@ -139,11 +139,11 @@ Based on the empathy maps and insights gathered during the user research phase, 
 
 ## 5. Empathy Maps
 
-Empathy maps were developed to better understand the thoughts, emotions, behaviors, and contextual factors that influence how different types of students experience informal and structured ride-sharing. Each map represents a specific user scenario and captures what users see, think, feel, and do when interacting with transportation alternatives. These maps were built based on interviews, observations, and prior analysis, and they serve as a foundation for identifying pain points, guiding feature design, and ensuring that NOMBRE_APP responds effectively to real user needs.
+Empathy maps were developed to better understand the thoughts, emotions, behaviors, and contextual factors that influence how different types of students experience informal and structured ride-sharing. Each map represents a specific user scenario and captures what users see, think, feel, and do when interacting with transportation alternatives. These maps were built based on interviews, observations, and prior analysis, and they serve as a foundation for identifying pain points, guiding feature design, and ensuring that Wheels responds effectively to real user needs.
 
 ### Empathy Map 1  
 **User:** Occasional Passenger  
-Student who uses NOMBRE_APP only in specific situations such as late nights, rain, exams, or emergencies.
+Student who uses Wheels only in specific situations such as late nights, rain, exams, or emergencies.
 
 <img width="1920" height="1080" alt="Interfaces and options he doesn’t fully understand" src="https://github.com/user-attachments/assets/a0ff4257-61bd-49eb-bd08-8d02f8966fb5" />
 
@@ -260,7 +260,7 @@ Female student who ocasionally uses shared rides and feels a little bit insecure
 **Persona:** Student Passenger  
 
 **User Action:**  
-The user opens NOMBRE_APP, enters the origin and destination, applies price and locality filters, and scrolls through the list of available rides.
+The user opens Wheels, enters the origin and destination, applies price and locality filters, and scrolls through the list of available rides.
 
 **System Reaction:**  
 The system retrieves matching rides from the database, ranks them based on relevance and reliability, and displays them with key information such as time, price, and driver rating.
