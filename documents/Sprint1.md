@@ -194,6 +194,183 @@ Female student who ocasionally uses shared rides and feels a little bit insecure
 
 ## 8. Functional scenarios 
 
+### FS-01: Searching for Available Rides
+
+**Persona:** Student Passenger  
+
+**User Action:**  
+The user opens NOMBRE_APP, enters the origin and destination, applies price and locality filters, and scrolls through the list of available rides.
+
+**System Reaction:**  
+The system retrieves matching rides from the database, ranks them based on relevance and reliability, and displays them with key information such as time, price, and driver rating.
+
+**Execution Context:**  
+The user is on campus with stable internet connection and sufficient battery level.
+
+---
+
+### FS-02: Booking and Paying for a Ride
+
+**Persona:** Student Passenger  
+
+**User Action:**  
+The user selects a ride, reviews the details, and confirms the reservation by completing the payment.
+
+**System Reaction:**  
+The system verifies seat availability, processes the payment, reserves the seat, updates the ride status, and sends confirmation notifications.
+
+**Execution Context:**  
+The user is logged in, connected to mobile data, and has a registered payment method.
+
+---
+
+### FS-03: Canceling a Reserved Ride
+
+**Persona:** Student Passenger  
+
+**User Action:**  
+The user opens the active booking and selects the cancel option before the scheduled departure time.
+
+**System Reaction:**  
+The system updates the booking status, applies the corresponding penalty if necessary, releases the seat, and notifies the driver.
+
+**Execution Context:**  
+The user has an active reservation and stable internet connectivity.
+
+---
+
+### FS-04: Publishing a New Ride
+
+**Persona:** Student Driver  
+
+**User Action:**  
+The driver enters origin, destination, time, price, and available seats, and publishes the ride.
+
+**System Reaction:**  
+The system validates the information, stores the ride in the database, and makes it visible to potential passengers.
+
+**Execution Context:**  
+The driver is authenticated and has GPS enabled.
+
+---
+
+### FS-05: Managing Ride Passengers
+
+**Persona:** Student Driver  
+
+**User Action:**  
+The driver reviews the list of booked passengers and checks their profiles before departure.
+
+**System Reaction:**  
+The system displays passenger information, booking status, and reliability indicators.
+
+**Execution Context:**  
+The driver is preparing for departure and connected to the internet.
+
+---
+
+### FS-06: Starting and Ending a Ride
+
+**Persona:** Student Driver  
+
+**User Action:**  
+The driver starts the ride when leaving and marks it as completed upon arrival.
+
+**System Reaction:**  
+The system updates the ride status, releases escrowed payments, and enables the review process.
+
+**Execution Context:**  
+The driver has active GPS and sufficient battery.
+
+---
+
+### FS-07: Switching Between Passenger and Driver Modes
+
+**Persona:** Student Passenger/Driver (Hybrid)  
+
+**User Action:**  
+The user switches from passenger mode to driver mode and accesses ride publishing features.
+
+**System Reaction:**  
+The system adapts the interface and loads the corresponding tools and options.
+
+**Execution Context:**  
+The user is logged in and has verified driver credentials.
+
+---
+
+### FS-08: Reviewing a Driver After a Ride
+
+**Persona:** Student Passenger  
+
+**User Action:**  
+After completing a ride, the user rates the driver and leaves a short review.
+
+**System Reaction:**  
+The system stores the rating, updates the driver’s trust score, and makes the review visible.
+
+**Execution Context:**  
+The ride has been marked as completed and the user is online.
+
+---
+
+### FS-09: Viewing Driver Profiles
+
+**Persona:** Student Passenger  
+
+**User Action:**  
+The user opens a driver’s profile from the ride list to check ratings and reviews.
+
+**System Reaction:**  
+The system retrieves and displays profile information and historical metrics.
+
+**Execution Context:**  
+The user is browsing rides with stable connectivity.
+
+---
+
+### FS-10: Receiving Ride Notifications
+
+**Persona:** Student Passenger  
+
+**User Action:**  
+The user receives system notifications about booking confirmations, delays, or changes.
+
+**System Reaction:**  
+The system pushes real-time alerts and updates the in-app notification center.
+
+**Execution Context:**  
+The app is running in the background with notifications enabled.
+
+---
+
+### FS-11: Recovering a Session After App Closure
+
+**Persona:** Student Passenger  
+
+**User Action:**  
+The user reopens the app after it was closed while viewing ride details.
+
+**System Reaction:**  
+The system restores the previous session and reloads the last accessed screen.
+
+**Execution Context:**  
+The user had an active session stored locally.
+
+---
+
+### FS-12: Reporting a Payment or Ride Issue
+
+**Persona:** Student Driver  
+
+**User Action:**  
+The driver reports a missing payment or abnormal ride behavior through the support interface.
+
+**System Reaction:**  
+The system registers the complaint, links it to the relevant ride, and forwards it to the dispute resolution process.
+
+**Execution Context:**  
+The user is authenticated and connected to the support system.
 
 
 ---
