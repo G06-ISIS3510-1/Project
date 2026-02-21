@@ -723,34 +723,26 @@ During Sprint 1, I actively contributed to the development and structuring of Wh
 - Participated in the **Ethics reflection video**, providing a perspective on algorithmic fairness, responsibility in system design, and the broader social and environmental implications of mobility platforms.
 
 ---
-# Samara Martínez – Contributions in Sprint 1  
+### Samara Martínez – Contributions in Sprint 1  
 
 During Sprint 1, I contributed to the research, analytics modeling, quality definition, and collaborative development of the Wheels project in the following areas:
 
----
-
-## 🔎 User Research & Context Analysis
+#### 🔎 User Research & Context Analysis
 
 - Conducted **Interview 2**, gathering qualitative insights about commuting habits, coordination challenges, and trust perceptions in recycling in Bogotá. That later help us to decide the proyect in wich we would work as a team.
 - Developed **Empathy Map 4 (Female User)**, focusing on safety concerns, emotional factors, and contextual risks that influence the adoption of shared mobility platforms.
 
----
-
-## 📊 Analytics Modeling & Strategic Perspective
+#### 📊 Analytics Modeling & Strategic Perspective
 
 - Created the **Analytics Persona**, defining the profile of a data-driven professional responsible for interpreting user behavior, monitoring platform performance, and supporting data-informed decision-making.  
 - Contributed analytical perspectives during feature discussions to ensure that future data usage aligns with product improvement and long-term sustainability.
 
----
-
-## 🏗️ Quality & System Design
+#### 🏗️ Quality & System Design
 
 - Contributed to the definition of **Quality Scenarios (QS)**, helping specify non-functional requirements such as reliability, usability, responsiveness, and operational stability under real commuting conditions.  
 - Participated in discussions to ensure that the system design promotes balanced evaluation mechanisms and consistent user experience.
 
----
-
-## 💡 Ideation & Team Collaboration
+#### 💡 Ideation & Team Collaboration
 
 - Actively participated in the **brainstorming of smart features**, contributing ideas focused on coordination efficiency and trust mechanisms.  
 - Participated in the **Prototype presentation video** and the **Ethics reflection video**, contributing perspectives on functionality, privacy, proportionality, and environmental responsibility.
