@@ -748,3 +748,47 @@ During Sprint 1, I contributed to the research, analytics modeling, quality defi
 - Actively participated in the **brainstorming of smart features**, contributing ideas focused on coordination efficiency and trust mechanisms.  
 - Participated and edited the **Prototype presentation video** contributing perspectives on functionality, privacy, proportionality, and environmental responsibility.
 - Participated in the **Ethics reflection video** contributing perspectives on transparency, environmental impact, and responsible data use..
+
+---
+### Mauricio Urrego – Contributions in Sprint 1
+
+During Sprint 1, I contributed to both the conceptual development and the refinement of our project, Wheels, in the following ways:
+
+#### 💡 Ideation & Concept Development
+
+* Actively participated in the **brainstorming sessions**, helping generate and discuss different solution ideas before we converged on the final concept.
+* Contributed to shaping and clarifying several smart feature proposals, supporting the transition from broad ideas to a more structured solution.
+
+#### 🗺️ Context & Personas Design
+
+* Helped design and organize the **Context Canvas**, making sure the problem, users, environment, and system components were aligned.
+* Defined **two user personas**, carefully describing their motivations, frustrations, and commuting behaviors to ensure the solution responded to real needs.
+
+#### 📊 Analytics & VD Map
+
+* Contributed to improving and complementing the **VD Map**, helping connect business questions with the appropriate data sources and visualizations.
+* Supported the refinement of analytics-related sections to ensure consistency between questions, data, and expected insights.
+
+#### 🎥 Ethics & Team Collaboration
+
+* Helped edit the **Ethics reflection video**, improving its clarity, structure, and alignment with the course requirements.
+* Collaborated throughout the sprint by reviewing content, providing feedback, and ensuring coherence across the different deliverables.
+
+---
+### Raúl Insuasty – Contributions in Sprint 1
+
+During Sprint 1, I contributed to the analytical and user-centered development of Wheels in the following areas:
+
+#### 👥 User Research & Personas
+
+* Contributed to the development of the **Empathy Maps**, helping identify key user frustrations, motivations, and commuting behaviors.
+* Collaborated in defining and refining the **personas**, ensuring they were consistent with our research findings and aligned with the proposed solution.
+
+#### 📊 Business Questions & Analytics
+
+* Contributed to the formulation and refinement of the **Business Questions**, making sure they were measurable and aligned with the five question types discussed in class.
+* Participated in the development and structuring of the **VD Map**, helping connect questions with appropriate data sources, processing steps, and visualizations.
+
+#### 🤝 Team Collaboration
+
+* Actively participated in team discussions, providing feedback and helping ensure coherence between user research, analytics design, and the overall project narrative.
