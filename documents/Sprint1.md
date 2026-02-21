@@ -511,3 +511,33 @@ During Sprint 1, I actively contributed to the Wheels project in the following a
 #### 🎥 Team Deliverables & Collaboration
 - Participated in the **Ethics reflection video**, sharing my perspective on privacy, fairness, and the societal and environmental impact of Wheels.
 - Participated and edited the **Prototype presentation video**, contributing to the explanation of the platform’s functionality and design decisions.
+
+---
+
+### Andrés Neira – Contributions in Sprint 1
+
+During Sprint 1, I actively contributed to the development and structuring of Wheels in the following areas:
+
+#### 📌 Research & Problem Framing
+- Contributed to the refinement of the **problem contextualization**, ensuring alignment between PAS, personas, and the overall narrative of the project.
+- Created the **Empathy Map – Budget-Conscious Student**, identifying financial stress, decision patterns, and cost sensitivity as central elements influencing user behavior.
+
+#### 💡 Ideation & Business Design
+- Led the ideation and formal structuring of the **Value Proposition**, ensuring coherence with the identified pain points and differentiation from informal and commercial alternatives.
+- Designed and reformulated the **Revenue Model**, proposing a community-centered approach based on donations, non-intrusive native advertising, and a long-term freemium strategy.
+- Contributed to the discussion and definition of future **freemium features**, including profile highlighting and advanced analytics dashboards.
+
+#### 🧱 Context & System Design
+- Contributed to the development of the **Context Canvas**, particularly in the definition and structuring of the **Backend Services**, identifying core system components and constraints.
+- Helped ensure architectural coherence between personas, features, backend services, and analytics components.
+
+#### 🧩 Functional Design
+- Developed the full set of **Functional Scenarios (FS)**, modeling realistic user interactions based on personas and production environments.
+- Ensured the scenarios followed the book’s framework, clearly defining user action, system reaction, and execution context.
+
+#### 📚 Sprint Documentation & Integration
+- Structured and edited the **Sprint 1 Wiki deliverable**, organizing sections such as project contextualization, revenue model, value proposition, and scenarios to ensure clarity, coherence, and academic rigor.
+- Reviewed and refined multiple sections to maintain consistency across PAS, VD Map, personas, and empathy maps.
+
+#### 🎥 Ethics Reflection
+- Participated in the **Ethics reflection video**, providing a perspective on algorithmic fairness, responsibility in system design, and the broader social and environmental implications of mobility platforms.
