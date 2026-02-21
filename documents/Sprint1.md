@@ -462,3 +462,31 @@ The user is authenticated and connected to the support system.
 
 
 ---
+
+## 11. Contributions
+
+### Jorge Bustamante – Contributions in Sprint 1
+
+During Sprint 1, I actively contributed to the development and strategic definition of our project in the following areas:
+
+#### 📌 Research & Problem Definition
+- Developed the **PAS (Problem-Agitate-Solution) framework** to clearly define the core problem and value proposition.
+- Created **Empathy Map 1** to better understand user motivations, frustrations, and behaviors.
+- Contributed to the **Problem and Solution Description**, helping refine the clarity and scope of the product.
+- Participated in defining the **majority of the templates** required to formally submit our work.
+
+#### 💡 Ideation & Smart Features
+- Actively participated in the **brainstorming session for smart features**, proposing and refining ideas focused on trust, efficiency, and user coordination.
+- Contributed to discussions regarding innovative and differentiating features for the platform.
+
+#### 🎤 User Research
+- Conducted **Interview 1**, gathering insights directly from potential users.
+- Analyzed interview findings to extract key pain points and behavioral patterns.
+
+#### 🗺️ UX & Product Analysis
+- Developed the **Journey Map of our selected app**, identifying friction points and opportunities for improvement.
+- Contributed insights to improve user flow and experience design.
+
+#### 🎥 Team Deliverables & Collaboration
+- Participated in the **Ethics reflection video**, contributing my perspective on ethical, societal, and environmental implications.
+- Participated in the **Prototype presentation video**, explaining features and product decisions.
