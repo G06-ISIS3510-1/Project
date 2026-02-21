@@ -490,3 +490,24 @@ During Sprint 1, I actively contributed to the development and strategic definit
 #### 🎥 Team Deliverables & Collaboration
 - Participated in the **Ethics reflection video**, contributing my perspective on ethical, societal, and environmental implications.
 - Participated in the **Prototype presentation video**, explaining features and product decisions.
+
+---
+
+### Martín Del Gordo – Contributions in Sprint 1
+
+During Sprint 1, I actively contributed to the Wheels project in the following areas:
+
+#### 📌 Research & Problem Definition
+- Created **Empathy Map 3 (Frequent Passenger)** to better understand the needs, motivations, concerns, and behavioral patterns of one of our core users.
+
+#### 💡 Ideation & Smart Features
+- Actively participated in the **brainstorming session for smart features**, contributing ideas related to converting data into knowledge.
+- Collaborated in the **evaluation and selection of the most valuable features**, helping align them with user needs and project feasibility.
+
+#### 📊 Data & Analytics Design
+- Developed **all the Business Questions** (with help of my peers), ensuring they aligned with the five analytics types and supported both product improvement and business value generation.
+- Designed and built the **VD Map (Value–Data Map)**, connecting data sources, processing steps, and visualizations with the corresponding business questions to support data-driven decision-making.
+
+#### 🎥 Team Deliverables & Collaboration
+- Participated in the **Ethics reflection video**, sharing my perspective on privacy, fairness, and the societal and environmental impact of Wheels.
+- Participated and edited the **Prototype presentation video**, contributing to the explanation of the platform’s functionality and design decisions.
