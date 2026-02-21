@@ -745,4 +745,5 @@ During Sprint 1, I contributed to the research, analytics modeling, quality defi
 #### 💡 Ideation & Team Collaboration
 
 - Actively participated in the **brainstorming of smart features**, contributing ideas focused on coordination efficiency and trust mechanisms.  
-- Participated in the **Prototype presentation video** and the **Ethics reflection video**, contributing perspectives on functionality, privacy, proportionality, and environmental responsibility.
+- Participated and edited the **Prototype presentation video** contributing perspectives on functionality, privacy, proportionality, and environmental responsibility.
+- Participated in the **Ethics reflection video** contributing perspectives on transparency, environmental impact, and responsible data use..
