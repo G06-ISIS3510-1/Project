@@ -452,8 +452,188 @@ The user is authenticated and connected to the support system.
 
 ---
 
-## 9. Quality scenarios
+## 9. Quality Scenarios
 
+The following Quality Scenarios were defined following the SE4MA framework. Each scenario includes the scenario name, quality attributes, app status and context, changes in context (stimulus), and system reaction.
+
+
+### QS-01: Ride Tracking with Low Battery  
+
+**Quality Attribute(s):** Reliability, Availability  
+
+**App Status and Context:**  
+A Student Driver is performing an active ride. Real-time GPS tracking is enabled and passengers are monitoring the route.
+
+**Changes in the Context:**  
+The driver’s device battery drops below 5% during the ride.
+
+**System Reaction:**  
+The system reduces GPS update frequency to conserve battery, informs passengers about possible reduced location precision, stores the last synchronized location, and maintains essential notifications until the ride ends or the device shuts down.
+
+---
+
+### QS-02: Temporary Internet Loss During Booking  
+
+**Quality Attribute(s):** Availability, Fault Tolerance  
+
+**App Status and Context:**  
+A Student Passenger is confirming a reservation and initiating payment.
+
+**Changes in the Context:**  
+The internet connection is lost before the booking confirmation is completed.
+
+**System Reaction:**  
+The system prevents duplicate bookings, temporarily locks the seat for a short grace period, stores the transaction state locally, and retries synchronization automatically when connectivity is restored.
+
+---
+
+### QS-03: Peak Hour Demand  
+
+**Quality Attribute(s):** Performance, Scalability  
+
+**App Status and Context:**  
+Multiple users are searching and publishing rides before morning classes.
+
+**Changes in the Context:**  
+The number of concurrent ride search and booking requests significantly increases beyond average system load.
+
+**System Reaction:**  
+The backend dynamically scales resources, prioritizes booking operations, and maintains response times within acceptable performance thresholds.
+
+---
+
+### QS-04: Last-Minute Passenger Cancellation  
+
+**Quality Attribute(s):** Integrity, Fairness  
+
+**App Status and Context:**  
+A ride is scheduled to begin shortly, and a Student Passenger has a confirmed booking.
+
+**Changes in the Context:**  
+The passenger cancels the ride within the defined penalty time window.
+
+**System Reaction:**  
+The system updates the cancellation score, applies the defined penalty policy, notifies the driver immediately, and releases the seat for potential rebooking.
+
+---
+
+### QS-05: Multiple Safety Complaints  
+
+**Quality Attribute(s):** Security, Trust  
+
+**App Status and Context:**  
+A Student Driver has an active account and recent ride activity.
+
+**Changes in the Context:**  
+Several passengers submit safety complaints within a short time interval.
+
+**System Reaction:**  
+The system flags the account, temporarily suspends ride publishing privileges, and forwards the case to administrative review.
+
+---
+
+### QS-06: Unauthorized Login Attempts  
+
+**Quality Attribute(s):** Security  
+
+**App Status and Context:**  
+A registered user account exists in the system.
+
+**Changes in the Context:**  
+Multiple failed login attempts occur from an unknown device.
+
+**System Reaction:**  
+The system blocks further attempts, triggers additional identity verification, logs the event, and sends a security notification to the account owner.
+
+---
+
+### QS-07: GPS Disabled During Ride Publication  
+
+**Quality Attribute(s):** Usability, Reliability  
+
+**App Status and Context:**  
+A Student Driver is attempting to publish a new ride.
+
+**Changes in the Context:**  
+The device’s GPS service is disabled.
+
+**System Reaction:**  
+The application displays a notification explaining that location services are required, guides the user to enable GPS, and prevents ride publication until location access is restored.
+
+---
+
+### QS-08: Payment Gateway Failure  
+
+**Quality Attribute(s):** Reliability, Financial Integrity  
+
+**App Status and Context:**  
+A Student Passenger submits payment information to confirm a booking.
+
+**Changes in the Context:**  
+The external payment service fails or times out.
+
+**System Reaction:**  
+The system does not confirm the reservation, informs the user of the failure, prevents duplicate charges, and allows retry within a defined time window.
+
+---
+
+### QS-09: Excessive Cancellation Pattern  
+
+**Quality Attribute(s):** Accountability, Data Integrity  
+
+**App Status and Context:**  
+A user has an established history of ride bookings.
+
+**Changes in the Context:**  
+The system detects a cancellation rate exceeding the acceptable threshold.
+
+**System Reaction:**  
+The system recalculates the reliability score, restricts access to high-demand rides if necessary, and notifies the user about behavioral impact.
+
+---
+
+### QS-10: Login from a New Device  
+
+**Quality Attribute(s):** Portability, Continuity  
+
+**App Status and Context:**  
+A Student Passenger regularly uses Wheels on a registered device.
+
+**Changes in the Context:**  
+The user logs in from a new device.
+
+**System Reaction:**  
+The system verifies identity using institutional credentials, restores ride history and ratings securely, and ensures continuity without data loss.
+
+---
+
+### QS-11: Background Execution During Active Ride  
+
+**Quality Attribute(s):** Performance Efficiency, Energy Efficiency  
+
+**App Status and Context:**  
+A Student Passenger is tracking an active ride while using another application.
+
+**Changes in the Context:**  
+The operating system restricts background processes to optimize battery usage.
+
+**System Reaction:**  
+The application prioritizes essential background services, maintains push notifications, and reduces non-critical processes.
+
+---
+
+### QS-12: Personal Data Deletion Request  
+
+**Quality Attribute(s):** Privacy, Compliance  
+
+**App Status and Context:**  
+A registered user has historical ride and payment data stored in the system.
+
+**Changes in the Context:**  
+The user requests permanent deletion of personal data.
+
+**System Reaction:**  
+The system deletes identifiable personal information, anonymizes historical records, confirms completion to the user, and preserves only aggregated non-identifiable data for analytics.
 
 ---
 
