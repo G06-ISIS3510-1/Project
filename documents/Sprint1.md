@@ -640,6 +640,7 @@ The system deletes identifiable personal information, anonymizes historical reco
 
 ## 10. Ethics video
 
+[Ethics Video Link](https://uniandes-my.sharepoint.com/:v:/g/personal/o_urregov_uniandes_edu_co/IQAmP2B0yxCxR53GhqT_UrQAAW0Llog_ETK7gZdNUwqBqzI?e=xdbfh6)
 
 ---
 
