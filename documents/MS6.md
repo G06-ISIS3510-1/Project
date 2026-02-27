@@ -114,7 +114,7 @@ Primary Navigation: **Bottom Tab Bar**
 
 Tabs:
 1. Home
-2. Create Ride
+2. Create Ride / Search Rides
 3. Alerts
 4. Profile
 
@@ -129,6 +129,156 @@ Secondary Navigation:
 Stack navigation inside each tab.
 
 Bottom navigation remains visible except for full-screen overlays.
+
+# Navigational Patterns - Wheels
+
+## Login Page (`/`)
+
+**Actions:**
+- Login ➔ Dashboard Page (`/dashboard`)
+- Forgot Password ➔ Password Recovery (not implemented in prototype)
+
+---
+
+## Dashboard Page (`/dashboard`)
+
+**Bottom Navigation:**
+- Home (current) ➔ Dashboard Page (`/dashboard`)
+- Create ➔ Create Ride Page (`/create-ride`)
+- Alerts ➔ Notifications Page (`/notifications`)
+- Profile ➔ Profile Page (`/profile`)
+
+**Page Actions:**
+- Quick Pay Button ➔ Quick Payment Page (`/payment`)
+- View Active Ride ➔ Active Ride Management Page (`/active-ride`)
+- Back ➔ Login Page (`/`)
+
+---
+
+## Create Ride Page (`/create-ride`)
+
+**Bottom Navigation:**
+- Home ➔ Dashboard Page (`/dashboard`)
+- Create (current) ➔ Create Ride Page (`/create-ride`)
+- Alerts ➔ Notifications Page (`/notifications`)
+- Profile ➔ Profile Page (`/profile`)
+
+**Page Actions:**
+- Publish Ride Button ➔ Active Ride Management Page (`/active-ride`)
+- Back ➔ Dashboard Page (`/dashboard`)
+
+---
+
+
+## Search a ride page (`/rides`)
+
+**Bottom Navigation:**
+- Home ➔ Dashboard Page (`/dashboard`)
+- Create (current) ➔ Find a ride (`/rides`)
+- Alerts ➔ Notifications Page (`/notifications`)
+- Profile ➔ Profile Page (`/profile`)
+
+**Page Actions:**
+- Publish Ride Button ➔ Active Ride Management Page (`/active-ride`)
+- Back ➔ Dashboard Page (`/dashboard`)
+
+---
+
+## Notifications Page (`/notifications`)
+
+**Bottom Navigation:**
+- Home ➔ Dashboard Page (`/dashboard`)
+- Create ➔ Create Ride Page (`/create-ride`)
+- Alerts (current) ➔ Notifications Page (`/notifications`)
+- Profile ➔ Profile Page (`/profile`)
+
+**Page Actions:**
+- Mark all read ➔ Updates notification states (same page)
+- Notification Item ➔ Relevant page based on notification type
+- Back ➔ Dashboard Page (`/dashboard`)
+
+---
+
+## Profile Page (`/profile`)
+
+**Bottom Navigation:**
+- Home ➔ Dashboard Page (`/dashboard`)
+- Create ➔ Create Ride Page (`/create-ride`)
+- Alerts ➔ Notifications Page (`/notifications`)
+- Profile (current) ➔ Profile Page (`/profile`)
+
+**Page Actions:**
+- Trust & Fairness ➔ Trust & Fairness Page (`/trust`)
+- Payment Methods ➔ Payment Settings (not implemented in prototype)
+- Notifications Settings ➔ Notification Settings (not implemented in prototype)
+- Help & Support ➔ Support Page (not implemented in prototype)
+- Logout ➔ Login Page (`/`)
+
+---
+
+## Trust & Fairness Page (`/trust`)
+
+**Bottom Navigation:**
+- Home ➔ Dashboard Page (`/dashboard`)
+- Create ➔ Create Ride Page (`/create-ride`)
+- Alerts ➔ Notifications Page (`/notifications`)
+- Profile ➔ Profile Page (`/profile`)
+
+**Page Actions:**
+- Back ➔ Profile Page (`/profile`)
+- View Full History ➔ Penalty History (same page, expanded)
+- Expand Examples ➔ Penalty Examples Modal (same page)
+
+---
+
+## Active Ride Management Page (`/active-ride`)
+
+**Bottom Navigation:**
+- Home ➔ Dashboard Page (`/dashboard`)
+- Create ➔ Create Ride Page (`/create-ride`)
+- Alerts ➔ Notifications Page (`/notifications`)
+- Profile ➔ Profile Page (`/profile`)
+
+**Page Actions:**
+- Start Ride Button ➔ Updates ride status (same page)
+- Mark Passenger No-Show ➔ No-Show Modal (same page)
+- End Ride Button ➔ Quick Payment Page (`/payment`)
+- Group Chat ➔ Group Coordination Page (`/group/:rideId`)
+- Back ➔ Dashboard Page (`/dashboard`)
+
+---
+
+## Quick Payment Page (`/payment`)
+
+**Bottom Navigation:**
+- Home ➔ Dashboard Page (`/dashboard`)
+- Create ➔ Create Ride Page (`/create-ride`)
+- Alerts ➔ Notifications Page (`/notifications`)
+- Profile ➔ Profile Page (`/profile`)
+
+**Page Actions:**
+- Send Payment Request ➔ Success message (same page)
+- Split Costs ➔ Updates payment distribution (same page)
+- Request Payment ➔ Sends request to passengers (same page)
+- Back ➔ Dashboard Page (`/dashboard`)
+
+---
+
+## Group Coordination Page (`/group/:rideId`)
+
+**Page Actions:**
+- Send Message ➔ Updates chat (same page)
+- Close/Back ➔ Active Ride Management Page (`/active-ride`)
+
+**Note:** This is a full-screen overlay modal, no Bottom Navigation visible.
+
+---
+
+**Page Actions:**
+- Filter Reviews ➔ Updates review list (same page)
+- Back ➔ Profile Page (`/profile`)
+
+---
 
 ---
 
@@ -165,29 +315,3 @@ Steps:
 The UI is optimized for mobile viewport only.
 
 ---
-
-# 6) Compliance with Professor Requirements
-
-- Prototypes are deployed with public links.
-- UI uses mobile design patterns (Bottom Tab Bar).
-- No web-only patterns such as hamburger menus are used.
-- Material and Flat design principles applied.
-- Clear instruction paragraph included for mobile visualization.
-
----
-
-# 7) Final Checklist Before Submission
-
-- Confirm links are public.
-- Ensure mobile tab bar is visible.
-- Verify all primary flows are accessible:
-  - Home
-  - Create Ride
-  - Notifications
-  - Profile
-- Optional: Add screenshots to wiki (non-pixelated).
-
----
-
-**Project:** Wheels  
-**Version:** MS6 Submission  
