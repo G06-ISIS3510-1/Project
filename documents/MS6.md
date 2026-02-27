@@ -279,6 +279,17 @@ Bottom navigation remains visible except for full-screen overlays.
 - Back ➔ Profile Page (`/profile`)
 
 ---
+## Reviews & Ratings Page (`/reviews`)
+
+**Bottom Navigation:**
+- Home ➔ Dashboard Page (`/dashboard`)
+- Create ➔ Create Ride Page (`/create-ride`)
+- Alerts ➔ Notifications Page (`/notifications`)
+- Profile ➔ Profile Page (`/profile`)
+
+**Page Actions:**
+- Filter Reviews ➔ Updates review list (same page)
+- Back ➔ Profile Page (`/profile`)
 
 ---
 
