@@ -323,6 +323,22 @@ Steps:
 4. Select a mobile device (e.g., iPhone 13 / Pixel 7).
 5. Refresh if needed.
 
+
 The UI is optimized for mobile viewport only.
 
 ---
+# 6) Logo
+The Wheels logo is designed with a minimalist and modern approach, aligned with Material Design and flat design principles to ensure clarity, scalability, and optimal performance in mobile environments.
+
+The main symbol consists of a deep navy blue circular shape representing a wheel, reinforcing the concept of mobility and transportation. The circular form also communicates stability, trust, and security — core values of the platform, which operates as a verified, university-exclusive community.
+
+Inside the circle, there is an upward geometric shape in navy blue that simultaneously suggests a road and a stylized “W”, directly referencing the application’s name. This upward movement conveys direction, progress, and growth within the university community.
+
+Above this central element, three electric green nodes are connected by thin lines, symbolizing the student network and the connection between drivers and passengers. The electric green color represents action, movement, financial success, and positive confirmation within the user experience.
+
+The combination of navy blue (#1a3a5c) and electric green (#00d9a3) creates strong visual contrast while maintaining a professional and trustworthy appearance. The logo works effectively both as a complete brand mark with the “Wheels” wordmark and as a simplified app icon, maintaining recognizability even at small sizes.
+
+Overall, the logo communicates safe university mobility, verified community access, and financial transparency, fully aligned with Wheels’ trust-by-design value proposition.
+
+<img width="1080" height="1350" alt="Diseño sin título (2)" src="https://github.com/user-attachments/assets/6aa82557-28c3-464d-8ff0-a166310d8cc9" />
+
